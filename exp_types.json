@@ -1,0 +1,1438 @@
+﻿[
+ {
+   "label": "AGC Agency Fees",
+   "value": "AGC Agency Fees"
+ },
+ {
+   "label": "AGC Manual Agency Fees",
+   "value": "AGC Manual Agency Fees"
+ },
+ {
+   "label": "AGC Override Manual Agency Fees",
+   "value": "AGC Override Manual Agency Fees"
+ },
+ {
+   "label": "ALT Alteration and Renovation",
+   "value": "ALT Alteration and Renovation"
+ },
+ {
+   "label": "ALT Unallocated Alt and Renov",
+   "value": "ALT Unallocated Alt and Renov"
+ },
+ {
+   "label": "BUD Undistributed Budget",
+   "value": "BUD Undistributed Budget"
+ },
+ {
+   "label": "CFR Conf Registration Fees",
+   "value": "CFR Conf Registration Fees"
+ },
+ {
+   "label": "CFR Food Services",
+   "value": "CFR Food Services"
+ },
+ {
+   "label": "CFR Meeting Expenses",
+   "value": "CFR Meeting Expenses"
+ },
+ {
+   "label": "CFR Membership Fees",
+   "value": "CFR Membership Fees"
+ },
+ {
+   "label": "CFR Staff Training Fees",
+   "value": "CFR Staff Training Fees"
+ },
+ {
+   "label": "CFR Subscription Services",
+   "value": "CFR Subscription Services"
+ },
+ {
+   "label": "CFR Unalloc Conf and Training",
+   "value": "CFR Unalloc Conf and Training"
+ },
+ {
+   "label": "CFR Unallowable Conf Training",
+   "value": "CFR Unallowable Conf Training"
+ },
+ {
+   "label": "CSO Cost Share 3rd Prty InKind",
+   "value": "CSO Cost Share 3rd Prty InKind"
+ },
+ {
+   "label": "CSO Cost Share Equipment",
+   "value": "CSO Cost Share Equipment"
+ },
+ {
+   "label": "CSO Cost Share F and A",
+   "value": "CSO Cost Share F and A"
+ },
+ {
+   "label": "CSO Cost Share Other",
+   "value": "CSO Cost Share Other"
+ },
+ {
+   "label": "CSO Cost Share Supplies",
+   "value": "CSO Cost Share Supplies"
+ },
+ {
+   "label": "CSO Cost Share Travel",
+   "value": "CSO Cost Share Travel"
+ },
+ {
+   "label": "CSO Cost Share Tuition and Fee",
+   "value": "CSO Cost Share Tuition and Fee"
+ },
+ {
+   "label": "CSO Cost Share Unrec F and A",
+   "value": "CSO Cost Share Unrec F and A"
+ },
+ {
+   "label": "CSO Cost Share Volunteers",
+   "value": "CSO Cost Share Volunteers"
+ },
+ {
+   "label": "CSO Misc",
+   "value": "CSO Misc"
+ },
+ {
+   "label": "CSO Override Cost Shar F and A",
+   "value": "CSO Override Cost Shar F and A"
+ },
+ {
+   "label": "CSO Subawards above 25000",
+   "value": "CSO Subawards above 25000"
+ },
+ {
+   "label": "CSO Subawards first 25000",
+   "value": "CSO Subawards first 25000"
+ },
+ {
+   "label": "CSS Cost Share Fringe Benefits",
+   "value": "CSS Cost Share Fringe Benefits"
+ },
+ {
+   "label": "CSS Cost Share Sal Grad",
+   "value": "CSS Cost Share Sal Grad"
+ },
+ {
+   "label": "CSS Cost Share Sal Regular",
+   "value": "CSS Cost Share Sal Regular"
+ },
+ {
+   "label": "CSS Cost Share Sal Summer",
+   "value": "CSS Cost Share Sal Summer"
+ },
+ {
+   "label": "CSS Cost Share Sal Undergrad",
+   "value": "CSS Cost Share Sal Undergrad"
+ },
+ {
+   "label": "EQP Commun Equip",
+   "value": "EQP Commun Equip"
+ },
+ {
+   "label": "EQP CommunEquip Lease Purch",
+   "value": "EQP CommunEquip Lease Purch"
+ },
+ {
+   "label": "EQP Furniture",
+   "value": "EQP Furniture"
+ },
+ {
+   "label": "EQP Furniture Lease Purchase",
+   "value": "EQP Furniture Lease Purchase"
+ },
+ {
+   "label": "EQP Heavy Equip",
+   "value": "EQP Heavy Equip"
+ },
+ {
+   "label": "EQP Heavy Equip Lease Purch",
+   "value": "EQP Heavy Equip Lease Purch"
+ },
+ {
+   "label": "EQP IT Equip Other",
+   "value": "EQP IT Equip Other"
+ },
+ {
+   "label": "EQP IT Equip Other Lease Purch",
+   "value": "EQP IT Equip Other Lease Purch"
+ },
+ {
+   "label": "EQP IT Printers",
+   "value": "EQP IT Printers"
+ },
+ {
+   "label": "EQP IT Printers Lease Purch",
+   "value": "EQP IT Printers Lease Purch"
+ },
+ {
+   "label": "EQP Library Audio Materials",
+   "value": "EQP Library Audio Materials"
+ },
+ {
+   "label": "EQP Library Books",
+   "value": "EQP Library Books"
+ },
+ {
+   "label": "EQP Library Doc Deliv Interlib",
+   "value": "EQP Library Doc Deliv Interlib"
+ },
+ {
+   "label": "EQP Library Elect Resources",
+   "value": "EQP Library Elect Resources"
+ },
+ {
+   "label": "EQP Library Hardware",
+   "value": "EQP Library Hardware"
+ },
+ {
+   "label": "EQP Library Serials",
+   "value": "EQP Library Serials"
+ },
+ {
+   "label": "EQP Library Software",
+   "value": "EQP Library Software"
+ },
+ {
+   "label": "EQP Medical Equip",
+   "value": "EQP Medical Equip"
+ },
+ {
+   "label": "EQP Medical Equip Lease Purch",
+   "value": "EQP Medical Equip Lease Purch"
+ },
+ {
+   "label": "EQP Office Equip",
+   "value": "EQP Office Equip"
+ },
+ {
+   "label": "EQP Office Equip Lease Purch",
+   "value": "EQP Office Equip Lease Purch"
+ },
+ {
+   "label": "EQP Other Equip",
+   "value": "EQP Other Equip"
+ },
+ {
+   "label": "EQP Other Equip Lease Purch",
+   "value": "EQP Other Equip Lease Purch"
+ },
+ {
+   "label": "EQP PCs",
+   "value": "EQP PCs"
+ },
+ {
+   "label": "EQP PCs Lease Purch",
+   "value": "EQP PCs Lease Purch"
+ },
+ {
+   "label": "EQP Print Equip",
+   "value": "EQP Print Equip"
+ },
+ {
+   "label": "EQP Print Equip Lease Purch",
+   "value": "EQP Print Equip Lease Purch"
+ },
+ {
+   "label": "EQP Research Equip",
+   "value": "EQP Research Equip"
+ },
+ {
+   "label": "EQP Sponsor Defined Equip",
+   "value": "EQP Sponsor Defined Equip"
+ },
+ {
+   "label": "EQP Unallocated Equipment",
+   "value": "EQP Unallocated Equipment"
+ },
+ {
+   "label": "EQP Unallowable Equip",
+   "value": "EQP Unallowable Equip"
+ },
+ {
+   "label": "EQP Vehicles",
+   "value": "EQP Vehicles"
+ },
+ {
+   "label": "EQP Vehicles Lease Purch",
+   "value": "EQP Vehicles Lease Purch"
+ },
+ {
+   "label": "FAC F and A Costs",
+   "value": "FAC F and A Costs"
+ },
+ {
+   "label": "FAC Manual F and A Costs",
+   "value": "FAC Manual F and A Costs"
+ },
+ {
+   "label": "FAC Override Manual F and A",
+   "value": "FAC Override Manual F and A"
+ },
+ {
+   "label": "FACOverride SUNYSUB F and A",
+   "value": "FACOverride SUNYSUB F and A"
+ },
+ {
+   "label": "FBG FB Grad Unallowable",
+   "value": "FBG FB Grad Unallowable"
+ },
+ {
+   "label": "FBG FB Manual Grad",
+   "value": "FBG FB Manual Grad"
+ },
+ {
+   "label": "FBG Fringe Benefits Grad",
+   "value": "FBG Fringe Benefits Grad"
+ },
+ {
+   "label": "FBG Unallocated FB Grad",
+   "value": "FBG Unallocated FB Grad"
+ },
+ {
+   "label": "FBI FB IFR Payments",
+   "value": "FBI FB IFR Payments"
+ },
+ {
+   "label": "FBI FB Manual IFR",
+   "value": "FBI FB Manual IFR"
+ },
+ {
+   "label": "FBI Fringe Benefits IFR",
+   "value": "FBI Fringe Benefits IFR"
+ },
+ {
+   "label": "FBI Unallocated FB IFR",
+   "value": "FBI Unallocated FB IFR"
+ },
+ {
+   "label": "FBR FB Manual Regular",
+   "value": "FBR FB Manual Regular"
+ },
+ {
+   "label": "FBR Fringe Benefits Regular",
+   "value": "FBR Fringe Benefits Regular"
+ },
+ {
+   "label": "FBR Unallocated FB Regular",
+   "value": "FBR Unallocated FB Regular"
+ },
+ {
+   "label": "FBS FB Manual Summer",
+   "value": "FBS FB Manual Summer"
+ },
+ {
+   "label": "FBS Fringe Benefits Summer",
+   "value": "FBS Fringe Benefits Summer"
+ },
+ {
+   "label": "FBS Non RF FICA",
+   "value": "FBS Non RF FICA"
+ },
+ {
+   "label": "FBS Non RF Medicare",
+   "value": "FBS Non RF Medicare"
+ },
+ {
+   "label": "FBS Unallocated FB Summer",
+   "value": "FBS Unallocated FB Summer"
+ },
+ {
+   "label": "FBU FB Manual Undergrad",
+   "value": "FBU FB Manual Undergrad"
+ },
+ {
+   "label": "FBU Fringe Benefits Undergrad",
+   "value": "FBU Fringe Benefits Undergrad"
+ },
+ {
+   "label": "FBU Unallocated FB Undergrad",
+   "value": "FBU Unallocated FB Undergrad"
+ },
+ {
+   "label": "FPS Americorp Regular",
+   "value": "FPS Americorp Regular"
+ },
+ {
+   "label": "FPS Americorp Student",
+   "value": "FPS Americorp Student"
+ },
+ {
+   "label": "FPS Fellow Insurance",
+   "value": "FPS Fellow Insurance"
+ },
+ {
+   "label": "FPS Fellowships",
+   "value": "FPS Fellowships"
+ },
+ {
+   "label": "FPS FICA Expense",
+   "value": "FPS FICA Expense"
+ },
+ {
+   "label": "FPS IFR Stipends",
+   "value": "FPS IFR Stipends"
+ },
+ {
+   "label": "FPS Medicare Expense",
+   "value": "FPS Medicare Expense"
+ },
+ {
+   "label": "FPS Participant Depend Allow",
+   "value": "FPS Participant Depend Allow"
+ },
+ {
+   "label": "FPS Participant Support",
+   "value": "FPS Participant Support"
+ },
+ {
+   "label": "FPS Participant Support Hourly",
+   "value": "FPS Participant Support Hourly"
+ },
+ {
+   "label": "FPS Participant Travel",
+   "value": "FPS Participant Travel"
+ },
+ {
+   "label": "FPS Unalloc Fellows Part Sup",
+   "value": "FPS Unalloc Fellows Part Sup"
+ },
+ {
+   "label": "GNS Accessory Instruction",
+   "value": "GNS Accessory Instruction"
+ },
+ {
+   "label": "GNS Accounting and Auditing",
+   "value": "GNS Accounting and Auditing"
+ },
+ {
+   "label": "GNS Advertising Services",
+   "value": "GNS Advertising Services"
+ },
+ {
+   "label": "GNS Animal Care",
+   "value": "GNS Animal Care"
+ },
+ {
+   "label": "GNS Architects",
+   "value": "GNS Architects"
+ },
+ {
+   "label": "GNS Banking",
+   "value": "GNS Banking"
+ },
+ {
+   "label": "GNS Building Property Services",
+   "value": "GNS Building Property Services"
+ },
+ {
+   "label": "GNS Claims",
+   "value": "GNS Claims"
+ },
+ {
+   "label": "GNS Clerical Servs",
+   "value": "GNS Clerical Servs"
+ },
+ {
+   "label": "GNS Client Services",
+   "value": "GNS Client Services"
+ },
+ {
+   "label": "GNS Consultant Services",
+   "value": "GNS Consultant Services"
+ },
+ {
+   "label": "GNS Critic Teacher Stipend",
+   "value": "GNS Critic Teacher Stipend"
+ },
+ {
+   "label": "GNS Critic Teacher Waiver",
+   "value": "GNS Critic Teacher Waiver"
+ },
+ {
+   "label": "GNS General",
+   "value": "GNS General"
+ },
+ {
+   "label": "GNS Grad Teach Asst Stipend",
+   "value": "GNS Grad Teach Asst Stipend"
+ },
+ {
+   "label": "GNS Highway Maint Services",
+   "value": "GNS Highway Maint Services"
+ },
+ {
+   "label": "GNS Housing",
+   "value": "GNS Housing"
+ },
+ {
+   "label": "GNS Insurance Equipment",
+   "value": "GNS Insurance Equipment"
+ },
+ {
+   "label": "GNS Insurance Other",
+   "value": "GNS Insurance Other"
+ },
+ {
+   "label": "GNS Interest Late Contract",
+   "value": "GNS Interest Late Contract"
+ },
+ {
+   "label": "GNS Interest Late Payment NPS",
+   "value": "GNS Interest Late Payment NPS"
+ },
+ {
+   "label": "GNS Interest Lease Purchase",
+   "value": "GNS Interest Lease Purchase"
+ },
+ {
+   "label": "GNS Interest Other",
+   "value": "GNS Interest Other"
+ },
+ {
+   "label": "GNS Interest Sponsor",
+   "value": "GNS Interest Sponsor"
+ },
+ {
+   "label": "GNS Investment Fees",
+   "value": "GNS Investment Fees"
+ },
+ {
+   "label": "GNS IT Cnslt Dsgn Devel Servs",
+   "value": "GNS IT Cnslt Dsgn Devel Servs"
+ },
+ {
+   "label": "GNS IT Hardware Maintenance",
+   "value": "GNS IT Hardware Maintenance"
+ },
+ {
+   "label": "GNS IT Services Other",
+   "value": "GNS IT Services Other"
+ },
+ {
+   "label": "GNS IT Servs Software Licenses",
+   "value": "GNS IT Servs Software Licenses"
+ },
+ {
+   "label": "GNS IT Software Install Integr",
+   "value": "GNS IT Software Install Integr"
+ },
+ {
+   "label": "GNS IT Software Maintenance",
+   "value": "GNS IT Software Maintenance"
+ },
+ {
+   "label": "GNS Judgments",
+   "value": "GNS Judgments"
+ },
+ {
+   "label": "GNS Jury Services",
+   "value": "GNS Jury Services"
+ },
+ {
+   "label": "GNS Laundry and Janitor Servs",
+   "value": "GNS Laundry and Janitor Servs"
+ },
+ {
+   "label": "GNS Lecturer",
+   "value": "GNS Lecturer"
+ },
+ {
+   "label": "GNS Legal",
+   "value": "GNS Legal"
+ },
+ {
+   "label": "GNS Manpower Services",
+   "value": "GNS Manpower Services"
+ },
+ {
+   "label": "GNS Medical Clinical",
+   "value": "GNS Medical Clinical"
+ },
+ {
+   "label": "GNS Other Professional Services",
+   "value": "GNS Other Professional Services"
+ },
+ {
+   "label": "GNS Recruitment",
+   "value": "GNS Recruitment"
+ },
+ {
+   "label": "GNS Security Servs",
+   "value": "GNS Security Servs"
+ },
+ {
+   "label": "GNS Student Aid Payments",
+   "value": "GNS Student Aid Payments"
+ },
+ {
+   "label": "GNS Subject Costs",
+   "value": "GNS Subject Costs"
+ },
+ {
+   "label": "GNS Tuition Waiver",
+   "value": "GNS Tuition Waiver"
+ },
+ {
+   "label": "GNS Unallocated Gen Service",
+   "value": "GNS Unallocated Gen Service"
+ },
+ {
+   "label": "GNS Unallowable General Servs",
+   "value": "GNS Unallowable General Servs"
+ },
+ {
+   "label": "LBS Unalloc Lease Serv Equip",
+   "value": "LBS Unalloc Lease Serv Equip"
+ },
+ {
+   "label": "LSB Building and Maint Repairs",
+   "value": "LSB Building and Maint Repairs"
+ },
+ {
+   "label": "LSB Real Prop Base Rent",
+   "value": "LSB Real Prop Base Rent"
+ },
+ {
+   "label": "LSB Real Prop Constr Fitup",
+   "value": "LSB Real Prop Constr Fitup"
+ },
+ {
+   "label": "LSB Real Prop Cost Escalation",
+   "value": "LSB Real Prop Cost Escalation"
+ },
+ {
+   "label": "LSB Real Prop Tax Escalation",
+   "value": "LSB Real Prop Tax Escalation"
+ },
+ {
+   "label": "LSB Real Prop Utilities",
+   "value": "LSB Real Prop Utilities"
+ },
+ {
+   "label": "LSB Unalloc Lease Ser Building",
+   "value": "LSB Unalloc Lease Ser Building"
+ },
+ {
+   "label": "LSE Equip Maint Repairs Commun",
+   "value": "LSE Equip Maint Repairs Commun"
+ },
+ {
+   "label": "LSE Equip Maint Repairs IT",
+   "value": "LSE Equip Maint Repairs IT"
+ },
+ {
+   "label": "LSE Equip Maint Repairs Other",
+   "value": "LSE Equip Maint Repairs Other"
+ },
+ {
+   "label": "LSE Equip Maint Repairs Vhcles",
+   "value": "LSE Equip Maint Repairs Vhcles"
+ },
+ {
+   "label": "LSE Leases IT Equip",
+   "value": "LSE Leases IT Equip"
+ },
+ {
+   "label": "LSE Leases Other Equip",
+   "value": "LSE Leases Other Equip"
+ },
+ {
+   "label": "LSE Leases Vhcles",
+   "value": "LSE Leases Vhcles"
+ },
+ {
+   "label": "LSE Unalloc Lease Ser Equip",
+   "value": "LSE Unalloc Lease Ser Equip"
+ },
+ {
+   "label": "NCO Non Cash Equipment",
+   "value": "NCO Non Cash Equipment"
+ },
+ {
+   "label": "NCO Non Cash F and A",
+   "value": "NCO Non Cash F and A"
+ },
+ {
+   "label": "NCO Non Cash General Services",
+   "value": "NCO Non Cash General Services"
+ },
+ {
+   "label": "NCO Non Cash Other",
+   "value": "NCO Non Cash Other"
+ },
+ {
+   "label": "NCO Non Cash Supplies",
+   "value": "NCO Non Cash Supplies"
+ },
+ {
+   "label": "NCO Override Non Cash F and A",
+   "value": "NCO Override Non Cash F and A"
+ },
+ {
+   "label": "OTR Bad Debt Expense",
+   "value": "OTR Bad Debt Expense"
+ },
+ {
+   "label": "OTR Charge Card Clearing",
+   "value": "OTR Charge Card Clearing"
+ },
+ {
+   "label": "OTR CO Assessment",
+   "value": "OTR CO Assessment"
+ },
+ {
+   "label": "OTR Collection Fees",
+   "value": "OTR Collection Fees"
+ },
+ {
+   "label": "OTR Earned Discounts",
+   "value": "OTR Earned Discounts"
+ },
+ {
+   "label": "OTR Expatriat Allowances",
+   "value": "OTR Expatriat Allowances"
+ },
+ {
+   "label": "OTR IP TTO  Development",
+   "value": "OTR IP TTO  Development"
+ },
+ {
+   "label": "OTR IP TTO Enforcement",
+   "value": "OTR IP TTO Enforcement"
+ },
+ {
+   "label": "OTR IP TTO Evaluation>",
+   "value": "OTR IP TTO Evaluation>"
+ },
+ {
+   "label": "OTR IP TTO Maintenance",
+   "value": "OTR IP TTO Maintenance"
+ },
+ {
+   "label": "OTR IP TTO Marketing>",
+   "value": "OTR IP TTO Marketing>"
+ },
+ {
+   "label": "OTR IP TTO Pre-Disclosure Exp",
+   "value": "OTR IP TTO Pre-Disclosure Exp"
+ },
+ {
+   "label": "OTR IP TTO Protection",
+   "value": "OTR IP TTO Protection"
+ },
+ {
+   "label": "OTR Miscellaneous Other",
+   "value": "OTR Miscellaneous Other"
+ },
+ {
+   "label": "OTR Nonresident Alien Tax",
+   "value": "OTR Nonresident Alien Tax"
+ },
+ {
+   "label": "OTR OASIS Assessment",
+   "value": "OTR OASIS Assessment"
+ },
+ {
+   "label": "OTR Patent Expenses",
+   "value": "OTR Patent Expenses"
+ },
+ {
+   "label": "OTR Penalties and Fines",
+   "value": "OTR Penalties and Fines"
+ },
+ {
+   "label": "OTR Refunds to Grantor",
+   "value": "OTR Refunds to Grantor"
+ },
+ {
+   "label": "OTR Royalty Payments",
+   "value": "OTR Royalty Payments"
+ },
+ {
+   "label": "OTR Unallocated Other Expenses",
+   "value": "OTR Unallocated Other Expenses"
+ },
+ {
+   "label": "OTR Unallowable Other",
+   "value": "OTR Unallowable Other"
+ },
+ {
+   "label": "OTR Unearned Discounts",
+   "value": "OTR Unearned Discounts"
+ },
+ {
+   "label": "PAT Patient Care",
+   "value": "PAT Patient Care"
+ },
+ {
+   "label": "PAT Unallocated Patient Care",
+   "value": "PAT Unallocated Patient Care"
+ },
+ {
+   "label": "PAT Unallowable Patient Care",
+   "value": "PAT Unallowable Patient Care"
+ },
+ {
+   "label": "PBS IT Telecommun Services",
+   "value": "PBS IT Telecommun Services"
+ },
+ {
+   "label": "PBS Telephone Services",
+   "value": "PBS Telephone Services"
+ },
+ {
+   "label": "PBS Unallocated Public Ser",
+   "value": "PBS Unallocated Public Ser"
+ },
+ {
+   "label": "PGA Annuity Payments",
+   "value": "PGA Annuity Payments"
+ },
+ {
+   "label": "PGA Charitable Gift",
+   "value": "PGA Charitable Gift"
+ },
+ {
+   "label": "PGA Fees",
+   "value": "PGA Fees"
+ },
+ {
+   "label": "PGA Interest Income",
+   "value": "PGA Interest Income"
+ },
+ {
+   "label": "PGA Net Realized",
+   "value": "PGA Net Realized"
+ },
+ {
+   "label": "PGA Net Unrealized",
+   "value": "PGA Net Unrealized"
+ },
+ {
+   "label": "PPP Outside Printing",
+   "value": "PPP Outside Printing"
+ },
+ {
+   "label": "PPP Page Cost",
+   "value": "PPP Page Cost"
+ },
+ {
+   "label": "PPP Postage",
+   "value": "PPP Postage"
+ },
+ {
+   "label": "PPP Publishing",
+   "value": "PPP Publishing"
+ },
+ {
+   "label": "PPP Unallocated Post and Publ",
+   "value": "PPP Unallocated Post and Publ"
+ },
+ {
+   "label": "PPP Unallowable Post and Print",
+   "value": "PPP Unallowable Post and Print"
+ },
+ {
+   "label": "RCH Animal Care",
+   "value": "RCH Animal Care"
+ },
+ {
+   "label": "RCH Auto Bus Rental",
+   "value": "RCH Auto Bus Rental"
+ },
+ {
+   "label": "RCH Auto Credit Cards",
+   "value": "RCH Auto Credit Cards"
+ },
+ {
+   "label": "RCH Auto Fleet Rental",
+   "value": "RCH Auto Fleet Rental"
+ },
+ {
+   "label": "RCH Auto Gas",
+   "value": "RCH Auto Gas"
+ },
+ {
+   "label": "RCH Auto Miscellaneous",
+   "value": "RCH Auto Miscellaneous"
+ },
+ {
+   "label": "RCH Auto Servs and Repairs",
+   "value": "RCH Auto Servs and Repairs"
+ },
+ {
+   "label": "RCH Bioelectronic Lab",
+   "value": "RCH Bioelectronic Lab"
+ },
+ {
+   "label": "RCH Central Dup and Printing",
+   "value": "RCH Central Dup and Printing"
+ },
+ {
+   "label": "RCH Central Stores",
+   "value": "RCH Central Stores"
+ },
+ {
+   "label": "RCH Computer Services",
+   "value": "RCH Computer Services"
+ },
+ {
+   "label": "RCH Educational Commun",
+   "value": "RCH Educational Commun"
+ },
+ {
+   "label": "RCH Facilities Use",
+   "value": "RCH Facilities Use"
+ },
+ {
+   "label": "RCH Hazardous Waste",
+   "value": "RCH Hazardous Waste"
+ },
+ {
+   "label": "RCH Mail",
+   "value": "RCH Mail"
+ },
+ {
+   "label": "RCH Other Recharges",
+   "value": "RCH Other Recharges"
+ },
+ {
+   "label": "RCH Radiation Protec Servs",
+   "value": "RCH Radiation Protec Servs"
+ },
+ {
+   "label": "RCH Radioactive Materials",
+   "value": "RCH Radioactive Materials"
+ },
+ {
+   "label": "RCH Recycling Deposits Credit",
+   "value": "RCH Recycling Deposits Credit"
+ },
+ {
+   "label": "RCH Scientific Med Instrument",
+   "value": "RCH Scientific Med Instrument"
+ },
+ {
+   "label": "RCH Telephone",
+   "value": "RCH Telephone"
+ },
+ {
+   "label": "RCH Telephone Adjustments",
+   "value": "RCH Telephone Adjustments"
+ },
+ {
+   "label": "RCH Telephone Install Relocate",
+   "value": "RCH Telephone Install Relocate"
+ },
+ {
+   "label": "RCH Telephone Local Usage",
+   "value": "RCH Telephone Local Usage"
+ },
+ {
+   "label": "RCH Telephone Maintenance",
+   "value": "RCH Telephone Maintenance"
+ },
+ {
+   "label": "RCH Telephone Tolls",
+   "value": "RCH Telephone Tolls"
+ },
+ {
+   "label": "RCH Unallocated Recharges",
+   "value": "RCH Unallocated Recharges"
+ },
+ {
+   "label": "RCH Unallowable Recharges",
+   "value": "RCH Unallowable Recharges"
+ },
+ {
+   "label": "REL Relocation",
+   "value": "REL Relocation"
+ },
+ {
+   "label": "REL Relocation NonTaxable",
+   "value": "REL Relocation NonTaxable"
+ },
+ {
+   "label": "REL Unallocated Relocation",
+   "value": "REL Unallocated Relocation"
+ },
+ {
+   "label": "SUB Subawards above 25000",
+   "value": "SUB Subawards above 25000"
+ },
+ {
+   "label": "SUB Subawards first 25000",
+   "value": "SUB Subawards first 25000"
+ },
+ {
+   "label": "SUB Unallocated Subawards",
+   "value": "SUB Unallocated Subawards"
+ },
+ {
+   "label": "SUB Unallowable Subawards",
+   "value": "SUB Unallowable Subawards"
+ },
+ {
+   "label": "SUP Athletic Supplies",
+   "value": "SUP Athletic Supplies"
+ },
+ {
+   "label": "SUP Below Threshold Equip",
+   "value": "SUP Below Threshold Equip"
+ },
+ {
+   "label": "SUP Books and Periodicals",
+   "value": "SUP Books and Periodicals"
+ },
+ {
+   "label": "SUP Class General",
+   "value": "SUP Class General"
+ },
+ {
+   "label": "SUP Class Hazard Chemicals",
+   "value": "SUP Class Hazard Chemicals"
+ },
+ {
+   "label": "SUP Class Lab",
+   "value": "SUP Class Lab"
+ },
+ {
+   "label": "SUP Class Rad Film Badges",
+   "value": "SUP Class Rad Film Badges"
+ },
+ {
+   "label": "SUP Class Tank Gas",
+   "value": "SUP Class Tank Gas"
+ },
+ {
+   "label": "SUP Clothing and Footwear",
+   "value": "SUP Clothing and Footwear"
+ },
+ {
+   "label": "SUP Controlled Substances",
+   "value": "SUP Controlled Substances"
+ },
+ {
+   "label": "SUP Drugs Prescrip and Other",
+   "value": "SUP Drugs Prescrip and Other"
+ },
+ {
+   "label": "SUP Facility Resident Supplies",
+   "value": "SUP Facility Resident Supplies"
+ },
+ {
+   "label": "SUP Farm and Garden",
+   "value": "SUP Farm and Garden"
+ },
+ {
+   "label": "SUP Food and Bev Supplies",
+   "value": "SUP Food and Bev Supplies"
+ },
+ {
+   "label": "SUP Fuel for Buildings",
+   "value": "SUP Fuel for Buildings"
+ },
+ {
+   "label": "SUP Fuel for Motor Vehicles",
+   "value": "SUP Fuel for Motor Vehicles"
+ },
+ {
+   "label": "SUP IT Supplies",
+   "value": "SUP IT Supplies"
+ },
+ {
+   "label": "SUP Lab Animals",
+   "value": "SUP Lab Animals"
+ },
+ {
+   "label": "SUP Lab Chemicals",
+   "value": "SUP Lab Chemicals"
+ },
+ {
+   "label": "SUP Lab Glassware",
+   "value": "SUP Lab Glassware"
+ },
+ {
+   "label": "SUP Maintenance and Repair",
+   "value": "SUP Maintenance and Repair"
+ },
+ {
+   "label": "SUP Materials and Manufacturing",
+   "value": "SUP Materials and Manufacturing"
+ },
+ {
+   "label": "SUP Med Radiation Film Badges",
+   "value": "SUP Med Radiation Film Badges"
+ },
+ {
+   "label": "SUP Medical Dental Lab",
+   "value": "SUP Medical Dental Lab"
+ },
+ {
+   "label": "SUP Medical Hazard Chemicals",
+   "value": "SUP Medical Hazard Chemicals"
+ },
+ {
+   "label": "SUP Medical Lab General",
+   "value": "SUP Medical Lab General"
+ },
+ {
+   "label": "SUP Medical Waste",
+   "value": "SUP Medical Waste"
+ },
+ {
+   "label": "SUP Motor Equipment Supplies",
+   "value": "SUP Motor Equipment Supplies"
+ },
+ {
+   "label": "SUP Office Supplies",
+   "value": "SUP Office Supplies"
+ },
+ {
+   "label": "SUP Other Supplies",
+   "value": "SUP Other Supplies"
+ },
+ {
+   "label": "SUP Photographic Supplies",
+   "value": "SUP Photographic Supplies"
+ },
+ {
+   "label": "SUP Print General",
+   "value": "SUP Print General"
+ },
+ {
+   "label": "SUP Print Label and Inserting",
+   "value": "SUP Print Label and Inserting"
+ },
+ {
+   "label": "SUP Print Typeset and Design",
+   "value": "SUP Print Typeset and Design"
+ },
+ {
+   "label": "SUP Radioactive Materials",
+   "value": "SUP Radioactive Materials"
+ },
+ {
+   "label": "SUP Unallocated Supplies",
+   "value": "SUP Unallocated Supplies"
+ },
+ {
+   "label": "SUP Unallowable Supplies",
+   "value": "SUP Unallowable Supplies"
+ },
+ {
+   "label": "SWG Adj Grad Nonexempt",
+   "value": "SWG Adj Grad Nonexempt"
+ },
+ {
+   "label": "SWG Grad Exempt",
+   "value": "SWG Grad Exempt"
+ },
+ {
+   "label": "SWG Grad Nonexempt",
+   "value": "SWG Grad Nonexempt"
+ },
+ {
+   "label": "SWG Grad Nonexempt OT",
+   "value": "SWG Grad Nonexempt OT"
+ },
+ {
+   "label": "SWG Grad Tuition",
+   "value": "SWG Grad Tuition"
+ },
+ {
+   "label": "SWG Unallocated S and W Grad",
+   "value": "SWG Unallocated S and W Grad"
+ },
+ {
+   "label": "SWI IFR Payments",
+   "value": "SWI IFR Payments"
+ },
+ {
+   "label": "SWI SUNY IFR No Fringe",
+   "value": "SWI SUNY IFR No Fringe"
+ },
+ {
+   "label": "SWI SUNY IFR Regular",
+   "value": "SWI SUNY IFR Regular"
+ },
+ {
+   "label": "SWI Unallocated S and W IFR",
+   "value": "SWI Unallocated S and W IFR"
+ },
+ {
+   "label": "SWM Accrued Sick Time",
+   "value": "SWM Accrued Sick Time"
+ },
+ {
+   "label": "SWM Accrued Vacation Payments",
+   "value": "SWM Accrued Vacation Payments"
+ },
+ {
+   "label": "SWM Payroll Suspense",
+   "value": "SWM Payroll Suspense"
+ },
+ {
+   "label": "SWM Salaries Oth Inst Activity",
+   "value": "SWM Salaries Oth Inst Activity"
+ },
+ {
+   "label": "SWM SUNY Suspense",
+   "value": "SWM SUNY Suspense"
+ },
+ {
+   "label": "SWM Unallocated S and W Misc",
+   "value": "SWM Unallocated S and W Misc"
+ },
+ {
+   "label": "SWR Adj Regular Nonexempt",
+   "value": "SWR Adj Regular Nonexempt"
+ },
+ {
+   "label": "SWR Regular Exempt",
+   "value": "SWR Regular Exempt"
+ },
+ {
+   "label": "SWR Regular Exempt Extra Serv",
+   "value": "SWR Regular Exempt Extra Serv"
+ },
+ {
+   "label": "SWR Regular Nonexempt",
+   "value": "SWR Regular Nonexempt"
+ },
+ {
+   "label": "SWR Regular Nonexempt OT",
+   "value": "SWR Regular Nonexempt OT"
+ },
+ {
+   "label": "SWR Relocation Taxable",
+   "value": "SWR Relocation Taxable"
+ },
+ {
+   "label": "SWR Severance Regular",
+   "value": "SWR Severance Regular"
+ },
+ {
+   "label": "SWR Unallocated S and W Reg",
+   "value": "SWR Unallocated S and W Reg"
+ },
+ {
+   "label": "SWS Adj Summer Nonexempt",
+   "value": "SWS Adj Summer Nonexempt"
+ },
+ {
+   "label": "SWS Non RF EE",
+   "value": "SWS Non RF EE"
+ },
+ {
+   "label": "SWS Non RF EE Misc Imp",
+   "value": "SWS Non RF EE Misc Imp"
+ },
+ {
+   "label": "SWS Non RF EE Misc Imp D",
+   "value": "SWS Non RF EE Misc Imp D"
+ },
+ {
+   "label": "SWS NQual Moving",
+   "value": "SWS NQual Moving"
+ },
+ {
+   "label": "SWS Qual Moving",
+   "value": "SWS Qual Moving"
+ },
+ {
+   "label": "SWS Summer Exempt",
+   "value": "SWS Summer Exempt"
+ },
+ {
+   "label": "SWS Summer Exempt Extra Serv",
+   "value": "SWS Summer Exempt Extra Serv"
+ },
+ {
+   "label": "SWS Summer Nonexempt",
+   "value": "SWS Summer Nonexempt"
+ },
+ {
+   "label": "SWS Summer Nonexempt OT",
+   "value": "SWS Summer Nonexempt OT"
+ },
+ {
+   "label": "SWS Unallocated S and W Summer",
+   "value": "SWS Unallocated S and W Summer"
+ },
+ {
+   "label": "SWU Adj Undergrad Nonexempt",
+   "value": "SWU Adj Undergrad Nonexempt"
+ },
+ {
+   "label": "SWU Unalloc S and W UnderGrad",
+   "value": "SWU Unalloc S and W UnderGrad"
+ },
+ {
+   "label": "SWU Undergrad Exempt",
+   "value": "SWU Undergrad Exempt"
+ },
+ {
+   "label": "SWU Undergrad Nonexempt",
+   "value": "SWU Undergrad Nonexempt"
+ },
+ {
+   "label": "SWU Undergrad Nonexempt OT",
+   "value": "SWU Undergrad Nonexempt OT"
+ },
+ {
+   "label": "TRV Business Travel Acct BTA",
+   "value": "TRV Business Travel Acct BTA"
+ },
+ {
+   "label": "TRV Dom Air Fare",
+   "value": "TRV Dom Air Fare"
+ },
+ {
+   "label": "TRV Dom Lodging Actual",
+   "value": "TRV Dom Lodging Actual"
+ },
+ {
+   "label": "TRV Dom Meals Actual",
+   "value": "TRV Dom Meals Actual"
+ },
+ {
+   "label": "TRV Dom Meals Per Diem",
+   "value": "TRV Dom Meals Per Diem"
+ },
+ {
+   "label": "TRV Dom Per Diem",
+   "value": "TRV Dom Per Diem"
+ },
+ {
+   "label": "TRV Dom Personal Car Mileage",
+   "value": "TRV Dom Personal Car Mileage"
+ },
+ {
+   "label": "TRV Dom Rental Cars",
+   "value": "TRV Dom Rental Cars"
+ },
+ {
+   "label": "TRV Dom Train Fare",
+   "value": "TRV Dom Train Fare"
+ },
+ {
+   "label": "TRV Dom Travel Other",
+   "value": "TRV Dom Travel Other"
+ },
+ {
+   "label": "TRV Domestic Travel",
+   "value": "TRV Domestic Travel"
+ },
+ {
+   "label": "TRV Foreign Air Fare",
+   "value": "TRV Foreign Air Fare"
+ },
+ {
+   "label": "TRV Foreign Lodging Actual",
+   "value": "TRV Foreign Lodging Actual"
+ },
+ {
+   "label": "TRV Foreign Meals Actual",
+   "value": "TRV Foreign Meals Actual"
+ },
+ {
+   "label": "TRV Foreign Meals Per Diem",
+   "value": "TRV Foreign Meals Per Diem"
+ },
+ {
+   "label": "TRV Foreign Per Diem",
+   "value": "TRV Foreign Per Diem"
+ },
+ {
+   "label": "TRV Foreign Rental Cars",
+   "value": "TRV Foreign Rental Cars"
+ },
+ {
+   "label": "TRV Foreign Train Fare",
+   "value": "TRV Foreign Train Fare"
+ },
+ {
+   "label": "TRV Foreign Train Fare",
+   "value": "TRV Foreign Train Fare"
+ },
+ {
+   "label": "TRV Foreign Travel",
+   "value": "TRV Foreign Travel"
+ },
+ {
+   "label": "TRV Foreign Travel Other",
+   "value": "TRV Foreign Travel Other"
+ },
+ {
+   "label": "TRV Unallocated Travel",
+   "value": "TRV Unallocated Travel"
+ },
+ {
+   "label": "TRV Unallowable Travel",
+   "value": "TRV Unallowable Travel"
+ },
+ {
+   "label": "TRVDom Lodging Per Diem",
+   "value": "TRVDom Lodging Per Diem"
+ },
+ {
+   "label": "TUI NonSUNY Tuition and Fees",
+   "value": "TUI NonSUNY Tuition and Fees"
+ },
+ {
+   "label": "TUI SUNY Tuition and Fees",
+   "value": "TUI SUNY Tuition and Fees"
+ },
+ {
+   "label": "TUI Unalloc Tuition and Fees",
+   "value": "TUI Unalloc Tuition and Fees"
+ },
+ {
+   "label": "TUI Unallowable Tuition",
+   "value": "TUI Unallowable Tuition"
+ },
+ {
+   "label": "UTL Distribution System",
+   "value": "UTL Distribution System"
+ },
+ {
+   "label": "UTL Electricity",
+   "value": "UTL Electricity"
+ },
+ {
+   "label": "UTL Natural Gas",
+   "value": "UTL Natural Gas"
+ },
+ {
+   "label": "UTL Other Utility Services",
+   "value": "UTL Other Utility Services"
+ },
+ {
+   "label": "UTL PASNY Electrical Purch",
+   "value": "UTL PASNY Electrical Purch"
+ },
+ {
+   "label": "UTL Sewage",
+   "value": "UTL Sewage"
+ },
+ {
+   "label": "UTL Steam",
+   "value": "UTL Steam"
+ },
+ {
+   "label": "UTL Unallocated Utilities",
+   "value": "UTL Unallocated Utilities"
+ },
+ {
+   "label": "UTL Unallowable Utilities",
+   "value": "UTL Unallowable Utilities"
+ },
+ {
+   "label": "UTL Water",
+   "value": "UTL Water"
+ }
+]
