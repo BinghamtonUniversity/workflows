@@ -1,0 +1,106 @@
+[
+    {
+        "label":"Anthropology",
+        "value":"Anthropology"
+    },
+    {
+        "label":"Art History",
+        "value":"Art History"
+    },
+    {
+        "label":"Behavioral Neuroscience",
+        "value":"Behavioral Neuroscience"
+    },
+    {
+        "label":"Biological Sciences",
+        "value":"Biological Sciences"
+    },
+    {
+        "label":"Biomedical Engineering",
+        "value":"Biomedical Engineering"
+    },
+    {
+        "label":"Chemistry",
+        "value":"Chemistry"
+    },
+    {
+        "label":"Clinical Psychology",
+        "value":"Clinical Psychology"
+    },
+    {
+        "label":"Cognitive Psychology",
+        "value":"Cognitive Psychology"
+    },
+    {
+        "label":"Community Research and Action",
+        "value":"Community Research and Action"
+    },
+    {
+        "label":"Comparative Literature",
+        "value":"Comparative Literature"
+    },
+    {
+        "label":"Computer Science",
+        "value":"Computer Science"
+    },
+    {
+        "label":"Electrical and Computer Engineering",
+        "value":"Electrical and Computer Engineering"
+    },
+    {
+        "label":"English",
+        "value":"English"
+    },
+    {
+        "label":"Geological Sciences",
+        "value":"Geological Sciences"
+    },
+    {
+        "label":"History",
+        "value":"History"
+    },
+    {
+        "label":"Industrial and Systems Engineering",
+        "value":"Industrial and Systems Engineering"
+    },
+    {
+        "label":"Materials Science and Engineering",
+        "value":"Materials Science and Engineering"
+    },
+    {
+        "label":"Mathematical Sciences",
+        "value":"Mathematical Sciences"
+    },
+    {
+        "label":"Mechanical Engineering",
+        "value":"Mechanical Engineering"
+    },
+    {
+        "label":"Nursing",
+        "value":"Nursing"
+    },
+    {
+        "label":"Philosophy",
+        "value":"Philosophy"
+    },
+    {
+        "label":"Physics",
+        "value":"Physics"
+    },
+    {
+        "label":"Political Science",
+        "value":"Political Science"
+    },
+    {
+        "label":"Sociology",
+        "value":"Sociology"
+    },
+    {
+        "label":"Systems Science",
+        "value":"Systems Science"
+    },
+    {
+        "label":"Translation Studies",
+        "value":"Translation Studies"
+    }
+]
