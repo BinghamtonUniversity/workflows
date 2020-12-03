@@ -76,10 +76,6 @@
         "value":"Mechanical Engineering"
     },
     {
-        "label":"Nursing",
-        "value":"Nursing"
-    },
-    {
         "label":"Philosophy",
         "value":"Philosophy"
     },
@@ -102,5 +98,17 @@
     {
         "label":"Translation Studies",
         "value":"Translation Studies"
+    },
+    {
+        "label":"Economics",
+        "value":"Economics"
+    },
+    {
+        "label":"Nursing (PhD)",
+        "value":"Nursing (PhD)"
+    },
+    {
+        "label":"Nursing (DNP)",
+        "value":"Nursing (DNP)"
     }
 ]
