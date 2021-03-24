@@ -1,0 +1,26 @@
+[
+    {
+        "label":"Harpur College of Arts and Sciences",
+        "value":"GH"
+    },
+    {
+        "label":"Thomas J. Watson College of Engineering and Applied Science",
+        "value":"GW"
+    },
+    {
+        "label":"School of Management",
+        "value":"GM"
+    },
+    {
+        "label":"Decker College of Nursing and Health Sciences",
+        "value":"GN"
+    },
+    {
+        "label":"College of Community and Public Affairs",
+        "value":"GC"
+    },
+    {
+        "label":"School of Pharmacy and Pharmaceutical Sciences",
+        "value":"GP"
+    }
+]
