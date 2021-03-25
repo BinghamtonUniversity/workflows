@@ -1,0 +1,986 @@
+[
+    {
+        "label": "C09 - Art History - PHD",
+        "value": "C09"
+    },
+    {
+        "label": "C0I - Art History 4+1 - MA",
+        "value": "C0I"
+    },
+    {
+        "label": "C0R - Art History Combined MA PhD - PHD",
+        "value": "C0R"
+    },
+    {
+        "label": "C0S - Art History Combined - MA",
+        "value": "C0S"
+    },
+    {
+        "label": "C69 - Art History - MA",
+        "value": "C69"
+    },
+    {
+        "label": "C66 - Music - MM",
+        "value": "C66"
+    },
+    {
+        "label": "C56 - Theatre - MA",
+        "value": "C56"
+    },
+    {
+        "label": "C4B - Comparative Literature 4+1 - MA",
+        "value": "C4B"
+    },
+    {
+        "label": "C33 - Comparative Literature - PHD",
+        "value": "C33"
+    },
+    {
+        "label": "C40 - Comparative Literature - MS",
+        "value": "C40"
+    },
+    {
+        "label": "C73 - Comparative Literature - MA",
+        "value": "C73"
+    },
+    {
+        "label": "C36 - Asian & Asian American Studies - MA",
+        "value": "C36"
+    },
+    {
+        "label": "C3F - Asian & Asian American Studies 4+1 - MA",
+        "value": "C3F"
+    },
+    {
+        "label": "G36 - Asian and Asian American Stud - CERT",
+        "value": "G36"
+    },
+    {
+        "label": "C23 - English - PHD",
+        "value": "C23"
+    },
+    {
+        "label": "C83 - English - MA",
+        "value": "C83"
+    },
+    {
+        "label": "C8H - English 4+1 - MA",
+        "value": "C8H"
+    },
+    {
+        "label": "C37 - Philosophy - SPEL - PHD",
+        "value": "C37"
+    },
+    {
+        "label": "C4J - Philosophy, Politics & Law 4+1 - MA",
+        "value": "C4J"
+    },
+    {
+        "label": "C4K - Philosophy 4+1 - MA",
+        "value": "C4K"
+    },
+    {
+        "label": "C24 - French - MA",
+        "value": "C24"
+    },
+    {
+        "label": "C2D - French 4+1 - MA",
+        "value": "C2D"
+    },
+    {
+        "label": "C30 - Italian - MA",
+        "value": "C30"
+    },
+    {
+        "label": "C3J - Italian 4+1 - MA",
+        "value": "C3J"
+    },
+    {
+        "label": "C53 - Spanish - MA",
+        "value": "C53"
+    },
+    {
+        "label": "C5C - Spanish 4+1 - MA",
+        "value": "C5C"
+    },
+    {
+        "label": "C12 - Biological Sciences EEB - PHD",
+        "value": "C12"
+    },
+    {
+        "label": "C13 - Biological Sciences - PHD",
+        "value": "C13"
+    },
+    {
+        "label": "C14 - Biological Sciences - MA",
+        "value": "C14"
+    },
+    {
+        "label": "C1C - Biological Sciences 4+1 - MS",
+        "value": "C1C"
+    },
+    {
+        "label": "C1D - Biological Sciences 4+1 - MA",
+        "value": "C1D"
+    },
+    {
+        "label": "C63 - Biological Sciences BCMB - MS",
+        "value": "C63"
+    },
+    {
+        "label": "C64 - Biological Sciences EEB - MS",
+        "value": "C64"
+    },
+    {
+        "label": "C15 - Chemistry - PHD",
+        "value": "C15"
+    },
+    {
+        "label": "C16 - Chemistry - MA",
+        "value": "C16"
+    },
+    {
+        "label": "C1F - Chemistry 4+1 - MA",
+        "value": "C1F"
+    },
+    {
+        "label": "C65 - Chemistry - MS",
+        "value": "C65"
+    },
+    {
+        "label": "C6F - Chemistry 4+1 - MS",
+        "value": "C6F"
+    },
+    {
+        "label": "H19 - Material Sci and Eng - MS",
+        "value": "H19"
+    },
+    {
+        "label": "H1H - Physics/Materials Science - MS",
+        "value": "H1H"
+    },
+    {
+        "label": "H1I - Chemistry/Materials Science - MS",
+        "value": "H1I"
+    },
+    {
+        "label": "H21 - Material Sci and Eng - PHD",
+        "value": "H21"
+    },
+    {
+        "label": "C26 - Geology - PHD",
+        "value": "C26"
+    },
+    {
+        "label": "C2F - Geological Sciences 4+1 - MS",
+        "value": "C2F"
+    },
+    {
+        "label": "C76 - Geology - MS",
+        "value": "C76"
+    },
+    {
+        "label": "C34 - Mathematics - PHD",
+        "value": "C34"
+    },
+    {
+        "label": "C84 - Mathematics - MA",
+        "value": "C84"
+    },
+    {
+        "label": "C86 - Statistics - MA",
+        "value": "C86"
+    },
+    {
+        "label": "C8E - Statistics 4+1 - MA",
+        "value": "C8E"
+    },
+    {
+        "label": "C41 - Physics - MS",
+        "value": "C41"
+    },
+    {
+        "label": "C49 - Physics - PHD",
+        "value": "C49"
+    },
+    {
+        "label": "C45 - Behavioral Neuroscience - PHD",
+        "value": "C45"
+    },
+    {
+        "label": "C46 - Cognitive Psychology - PHD",
+        "value": "C46"
+    },
+    {
+        "label": "C47 - Clinical Psychology - PHD",
+        "value": "C47"
+    },
+    {
+        "label": "C48 - Psychology - MA",
+        "value": "C48"
+    },
+    {
+        "label": "C50 - Psychology - MS",
+        "value": "C50"
+    },
+    {
+        "label": "C01 - Anthropology - PHD",
+        "value": "C01"
+    },
+    {
+        "label": "C02 - Bio-Medical Anthropology - MS",
+        "value": "C02"
+    },
+    {
+        "label": "C03 - Anthropology: MAPA - MA",
+        "value": "C03"
+    },
+    {
+        "label": "C0A - Anthropology 4+1 - MA",
+        "value": "C0A"
+    },
+    {
+        "label": "C0B - Biomedical Anthropology 4+1 - MS",
+        "value": "C0B"
+    },
+    {
+        "label": "C61 - Anthropology - MA",
+        "value": "C61"
+    },
+    {
+        "label": "C22 - Economics - PHD",
+        "value": "C22"
+    },
+    {
+        "label": "C2B - Economics 4+1 - MA",
+        "value": "C2B"
+    },
+    {
+        "label": "C62 - Economics - MA",
+        "value": "C62"
+    },
+    {
+        "label": "C25 - Geography - MA",
+        "value": "C25"
+    },
+    {
+        "label": "C2E - Geography 4+1 - MA",
+        "value": "C2E"
+    },
+    {
+        "label": "C29 - History - PHD",
+        "value": "C29"
+    },
+    {
+        "label": "C79 - History - MA",
+        "value": "C79"
+    },
+    {
+        "label": "C7I - History 4+1 - MA",
+        "value": "C7I"
+    },
+    {
+        "label": "C43 - Political Science - PHD",
+        "value": "C43"
+    },
+    {
+        "label": "C93 - Political Science - MA",
+        "value": "C93"
+    },
+    {
+        "label": "C52 - Sociology - PHD",
+        "value": "C52"
+    },
+    {
+        "label": "C72 - Sociology - MA",
+        "value": "C72"
+    },
+    {
+        "label": "C7B - Sociology 4+1 - MA",
+        "value": "C7B"
+    },
+    {
+        "label": "G40 - Medieval and Ren Std 4 15 Cen - CERT",
+        "value": "G40"
+    },
+    {
+        "label": "G41 - Medieval and Ren Std 15 18 Cen - CERT",
+        "value": "G41"
+    },
+    {
+        "label": "C60 - Translation Research & Instruction Prog - PHD",
+        "value": "C60"
+    },
+    {
+        "label": "G60 - Translation Research & Instruction Prog - CERT",
+        "value": "G60"
+    },
+    {
+        "label": "F43 - Community Research & Action - PHD",
+        "value": "F43"
+    },
+    {
+        "label": "F44 - Community and Public Affairs - PHD",
+        "value": "F44"
+    },
+    {
+        "label": "B1F - TESOL MA 4+1 - MA",
+        "value": "B1F"
+    },
+    {
+        "label": "E15 - Biology Adolescence Educ - MSED",
+        "value": "E15"
+    },
+    {
+        "label": "E17 - Chemistry Adolescence Educ - MSED",
+        "value": "E17"
+    },
+    {
+        "label": "E18 - Earth Science Adolescence Educ - MSED",
+        "value": "E18"
+    },
+    {
+        "label": "E22 - English Adolescence Educ - MSED",
+        "value": "E22"
+    },
+    {
+        "label": "E25 - French Adolescence Educ - MSED",
+        "value": "E25"
+    },
+    {
+        "label": "E35 - Mathematics Adolescence Educ - MSED",
+        "value": "E35"
+    },
+    {
+        "label": "E43 - Physics Adolescence Educ - MSED",
+        "value": "E43"
+    },
+    {
+        "label": "E52 - Social Studies Adolescence Educ - MSED",
+        "value": "E52"
+    },
+    {
+        "label": "E54 - Spanish Adolescence Educ - MSED",
+        "value": "E54"
+    },
+    {
+        "label": "E67 - Literacy Educ B 12 - MSED",
+        "value": "E67"
+    },
+    {
+        "label": "E68 - Childhood Early Chld LTRC B 6 (Pre-Serv) - MSED",
+        "value": "E68"
+    },
+    {
+        "label": "E69 - Childhood Early Chld SPED B 6 (Pre-Serv) - MSED",
+        "value": "E69"
+    },
+    {
+        "label": "E70 - Childhood Educ 1-6 (Pre-service) - MSED",
+        "value": "E70"
+    },
+    {
+        "label": "E71 - Childhood Educ 1-6 (In-service) - MSED",
+        "value": "E71"
+    },
+    {
+        "label": "E72 - Literacy Educ B-6 - MSED",
+        "value": "E72"
+    },
+    {
+        "label": "E73 - Literacy Educ 5-12 - MSED",
+        "value": "E73"
+    },
+    {
+        "label": "E79 - TESOL MA - MA",
+        "value": "E79"
+    },
+    {
+        "label": "E80 - TESOL MS - MSED",
+        "value": "E80"
+    },
+    {
+        "label": "E81 - Special Education, Childhood Educ - MSED",
+        "value": "E81"
+    },
+    {
+        "label": "E82 - Special Education, Adolesence Educ - MSED",
+        "value": "E82"
+    },
+    {
+        "label": "E83 - Inclusive Childhood Educ (Pre-service) - MSED",
+        "value": "E83"
+    },
+    {
+        "label": "E84 - Special Education B 2 - MSED",
+        "value": "E84"
+    },
+    {
+        "label": "E85 - Special Education B 6 (In-Service) - MSED",
+        "value": "E85"
+    },
+    {
+        "label": "E86 - Childhood/Early Childhood (ESOL) - MSED",
+        "value": "E86"
+    },
+    {
+        "label": "E88 - Adolescence Special Education - CERT",
+        "value": "E88"
+    },
+    {
+        "label": "E89 - CRITI ESL - CERT",
+        "value": "E89"
+    },
+    {
+        "label": "E91 - Educational Leadership - CERT",
+        "value": "E91"
+    },
+    {
+        "label": "E92 - TESOL CERT - CERT",
+        "value": "E92"
+    },
+    {
+        "label": "E95 - Educational Studies - MS",
+        "value": "E95"
+    },
+    {
+        "label": "E96 - Educational Studies New Orleans - MS",
+        "value": "E96"
+    },
+    {
+        "label": "E99 - Educational Theory & Practice - EDD",
+        "value": "E99"
+    },
+    {
+        "label": "E9E - Educational Studies 4+1 - MS",
+        "value": "E9E"
+    },
+    {
+        "label": "F45 - Community Schools - CERT",
+        "value": "F45"
+    },
+    {
+        "label": "T15 - Biology Adolescence Educ - MAT",
+        "value": "T15"
+    },
+    {
+        "label": "T17 - Chemistry Adolescence Educ - MAT",
+        "value": "T17"
+    },
+    {
+        "label": "T18 - Earth Science Adolescence Educ - MAT",
+        "value": "T18"
+    },
+    {
+        "label": "T1E - Biology Adolescence Education 4+1 - MAT",
+        "value": "T1E"
+    },
+    {
+        "label": "T1G - Chemistry Adolescence Education 4+1 - MAT",
+        "value": "T1G"
+    },
+    {
+        "label": "T1H - Earth Science Adolescence Education 4+1 - MAT",
+        "value": "T1H"
+    },
+    {
+        "label": "T22 - English Adolescence Educ - MAT",
+        "value": "T22"
+    },
+    {
+        "label": "T25 - French Adolescence Educ - MAT",
+        "value": "T25"
+    },
+    {
+        "label": "T2E - French Adolescence Education 4+1 - MAT",
+        "value": "T2E"
+    },
+    {
+        "label": "T35 - Mathematics Adolescence Educ - MAT",
+        "value": "T35"
+    },
+    {
+        "label": "T3E - Mathematics Adolscence Education 4+1 - MAT",
+        "value": "T3E"
+    },
+    {
+        "label": "T43 - Physics Adolescence Educ - MAT",
+        "value": "T43"
+    },
+    {
+        "label": "T4C - Physics Adolescence Education 4+1 - MAT",
+        "value": "T4C"
+    },
+    {
+        "label": "T52 - Social Studies Adolescence Educ - MAT",
+        "value": "T52"
+    },
+    {
+        "label": "T54 - Spanish Adolescence Educ - MAT",
+        "value": "T54"
+    },
+    {
+        "label": "T5D - Spanish Adolescence Education 4+1 - MAT",
+        "value": "T5D"
+    },
+    {
+        "label": "F46 - Human Rights - MS",
+        "value": "F46"
+    },
+    {
+        "label": "F4H - Human Development 4+1 - MS",
+        "value": "F4H"
+    },
+    {
+        "label": "C44 - Public Administration - MPA",
+        "value": "C44"
+    },
+    {
+        "label": "C4D - Public Administration 4+1 - MPA",
+        "value": "C4D"
+    },
+    {
+        "label": "F52 - Genocide and Mass Atrocity Prevention - CERT",
+        "value": "F52"
+    },
+    {
+        "label": "F54 - Local Government Management CERT - CERT",
+        "value": "F54"
+    },
+    {
+        "label": "F64 - Non-profit Administration CERT - CERT",
+        "value": "F64"
+    },
+    {
+        "label": "F55 - Geriatrics and Gerontology - CERT",
+        "value": "F55"
+    },
+    {
+        "label": "F56 - Social Work - MSW",
+        "value": "F56"
+    },
+    {
+        "label": "F57 - Social Work - MSW",
+        "value": "F57"
+    },
+    {
+        "label": "F58 - Social Work in Health Care - CERT",
+        "value": "F58"
+    },
+    {
+        "label": "F5F - Student Affairs Administration 4+1 - MS",
+        "value": "F5F"
+    },
+    {
+        "label": "F59 - Student Affairs Administration - MS",
+        "value": "F59"
+    },
+    {
+        "label": "H01 - Professional Science Management - CERT",
+        "value": "H01"
+    },
+    {
+        "label": "H02 - Watershed Stud and Mgmt CERT - CERT",
+        "value": "H02"
+    },
+    {
+        "label": "H04 - PSM Materials and Eng CERT - CERT",
+        "value": "H04"
+    },
+    {
+        "label": "H05 - PSM Cartography and GIS CERT - CERT",
+        "value": "H05"
+    },
+    {
+        "label": "H06 - PSM Biomedical Anthropology - CERT",
+        "value": "H06"
+    },
+    {
+        "label": "H15 - Evolutionary Studies CERT - CERT",
+        "value": "H15"
+    },
+    {
+        "label": "H18 - Materials Science and Engr - MS",
+        "value": "H18"
+    },
+    {
+        "label": "H23 - Materials Science and Engr - PHD",
+        "value": "H23"
+    },
+    {
+        "label": "H28 - German Cultural Studies CERT - CERT",
+        "value": "H28"
+    },
+    {
+        "label": "H30 - Sustainable Communities - MA",
+        "value": "H30"
+    },
+    {
+        "label": "H31 - Sustainable Communities - MS",
+        "value": "H31"
+    },
+    {
+        "label": "H3J - Sustainable Communities 4+1 - MA",
+        "value": "H3J"
+    },
+    {
+        "label": "H40 - Applied Liberal Studies - MA",
+        "value": "H40"
+    },
+    {
+        "label": "H4J - Sustainable Communities 4+1 - MS",
+        "value": "H4J"
+    },
+    {
+        "label": "H86 - Public Health - MPH",
+        "value": "H86"
+    },
+    {
+        "label": "B56 - Data Analytics - MS",
+        "value": "B56"
+    },
+    {
+        "label": "B70 - Fast-Track Professional MBA Prog-NYC - MBA",
+        "value": "B70"
+    },
+    {
+        "label": "B71 - Management Accounting - MBA",
+        "value": "B71"
+    },
+    {
+        "label": "B72 - Management Finance - MBA",
+        "value": "B72"
+    },
+    {
+        "label": "B73 - Management Marketing - MBA",
+        "value": "B73"
+    },
+    {
+        "label": "B74 - Management MIS - MBA",
+        "value": "B74"
+    },
+    {
+        "label": "B75 - Executive MBA (Manhattan) - MBA",
+        "value": "B75"
+    },
+    {
+        "label": "B76 - Management Leadership& Consul - MBA",
+        "value": "B76"
+    },
+    {
+        "label": "B77 - Accounting: Taxation Track - MS",
+        "value": "B77"
+    },
+    {
+        "label": "B78 - Management Business Analytics - MBA",
+        "value": "B78"
+    },
+    {
+        "label": "B79 - Management Supply Chain Mgt - MBA",
+        "value": "B79"
+    },
+    {
+        "label": "B81 - Executive MBA (Health Care Track) - MBA",
+        "value": "B81"
+    },
+    {
+        "label": "B82 - Executive MBA (Corporate Track) - MBA",
+        "value": "B82"
+    },
+    {
+        "label": "B83 - Business Administration 4+1 (Oneonta) - MBA",
+        "value": "B83"
+    },
+    {
+        "label": "B84 - Accounting 4+1 (Oneonta) - MS",
+        "value": "B84"
+    },
+    {
+        "label": "B86 - Business Administration - MBA",
+        "value": "B86"
+    },
+    {
+        "label": "B87 - Accounting - MS",
+        "value": "B87"
+    },
+    {
+        "label": "B8A - Accounting 4+1 - MS",
+        "value": "B8A"
+    },
+    {
+        "label": "B8B - Accounting Taxation 4+1 - MS",
+        "value": "B8B"
+    },
+    {
+        "label": "B90 - Executive MBA - MBA",
+        "value": "B90"
+    },
+    {
+        "label": "B91 - Wat/MBA 4+1 - MBA",
+        "value": "B91"
+    },
+    {
+        "label": "B93 - Business Administration 4+1 (Bing) - MBA",
+        "value": "B93"
+    },
+    {
+        "label": "B96 - MBA - Fast Track - MBA",
+        "value": "B96"
+    },
+    {
+        "label": "B99 - Management PHD - PHD",
+        "value": "B99"
+    },
+    {
+        "label": "D29 - Family Nursing NP - MS",
+        "value": "D29"
+    },
+    {
+        "label": "D41 - Adult Gerontological Nursing NP - MS",
+        "value": "D41"
+    },
+    {
+        "label": "D42 - Adult Gerontological NP - DNP",
+        "value": "D42"
+    },
+    {
+        "label": "D44 - Adult Gerontological NP - CERT",
+        "value": "D44"
+    },
+    {
+        "label": "D45 - Adult Gerontological Nursing - MS",
+        "value": "D45"
+    },
+    {
+        "label": "D46 - Adult Gerontlgl Clin Nurs Spec - DNP",
+        "value": "D46"
+    },
+    {
+        "label": "D69 - Community Health Primary Care Nurse Prac - MS",
+        "value": "D69"
+    },
+    {
+        "label": "D70 - Family Nurse Practitioner - DNP",
+        "value": "D70"
+    },
+    {
+        "label": "D71 - Community Health Nurse Practitioner - DNP",
+        "value": "D71"
+    },
+    {
+        "label": "D73 - Family Psych Mental Health Nurse Pract - DNP",
+        "value": "D73"
+    },
+    {
+        "label": "D75 - Community Health Clinic Nurse Specialist - DNP",
+        "value": "D75"
+    },
+    {
+        "label": "D80 - Forensic Health - CERT",
+        "value": "D80"
+    },
+    {
+        "label": "D81 - Psychiatric Nursing - MS",
+        "value": "D81"
+    },
+    {
+        "label": "D82 - Family Psychiatric Mental Health NP - CERT",
+        "value": "D82"
+    },
+    {
+        "label": "D83 - Psychiatric Mental Health Nursing NP - MS",
+        "value": "D83"
+    },
+    {
+        "label": "D86 - Disaster Management - CERT",
+        "value": "D86"
+    },
+    {
+        "label": "D88 - Nursing Education - CERT",
+        "value": "D88"
+    },
+    {
+        "label": "D91 - Nursing - MS",
+        "value": "D91"
+    },
+    {
+        "label": "D92 - Family Nurse Practitioner - CERT",
+        "value": "D92"
+    },
+    {
+        "label": "D93 - Family Nursing - MS",
+        "value": "D93"
+    },
+    {
+        "label": "D96 - Community Health Primary Care Nurse Pra - CERT",
+        "value": "D96"
+    },
+    {
+        "label": "D97 - Community Health Nursing - MS",
+        "value": "D97"
+    },
+    {
+        "label": "D99 - Nursing - PHD",
+        "value": "D99"
+    },
+    {
+        "label": "P98 - Health Outcomes and Admin Sciences - PharmD",
+        "value": "P98"
+    },
+    {
+        "label": "P98 - Pharmaceutical Practice - PharmD",
+        "value": "P98"
+    },
+    {
+        "label": "R11 - Biomedical Engineering - MS",
+        "value": "R11"
+    },
+    {
+        "label": "R1A - Biomedical Engineering 4+1 - MS",
+        "value": "R1A"
+    },
+    {
+        "label": "R91 - Biomedical Engineering - PHD",
+        "value": "R91"
+    },
+    {
+        "label": "R12 - Computer Science - MS",
+        "value": "R12"
+    },
+    {
+        "label": "R1B - Computer Science 4+1 - MS",
+        "value": "R1B"
+    },
+    {
+        "label": "R92 - Computer Science - PHD",
+        "value": "R92"
+    },
+    {
+        "label": "R05 - Electrical and Computer Engineering MS - MS",
+        "value": "R05"
+    },
+    {
+        "label": "R06 - Electrical Engineering - MS",
+        "value": "R06"
+    },
+    {
+        "label": "R0E - Electrical & Computer Engineering 4+1 - MS",
+        "value": "R0E"
+    },
+    {
+        "label": "R0F - Electrical Engineering 4+1 - MS",
+        "value": "R0F"
+    },
+    {
+        "label": "R26 - Electrical Engineering - MEng",
+        "value": "R26"
+    },
+    {
+        "label": "R36 - Computer Engineering - MEng",
+        "value": "R36"
+    },
+    {
+        "label": "R95 - Electrical and Computer Engineering PhD - PHD",
+        "value": "R95"
+    },
+    {
+        "label": "R96 - Electrical Engineering - PHD",
+        "value": "R96"
+    },
+    {
+        "label": "H20 - Material Sci and Eng-Engineering - MS",
+        "value": "H20"
+    },
+    {
+        "label": "H22 - Material Sci and Eng-Engineering - PHD",
+        "value": "H22"
+    },
+    {
+        "label": "R08 - Mechanical Engineering - MS",
+        "value": "R08"
+    },
+    {
+        "label": "R0H - Mechanical Engineering 4+1 - MS",
+        "value": "R0H"
+    },
+    {
+        "label": "R28 - Mechanical Engineering - MEng",
+        "value": "R28"
+    },
+    {
+        "label": "R98 - Mechanical Engineering - PHD",
+        "value": "R98"
+    },
+    {
+        "label": "R99 - Materials Engineering - PHD",
+        "value": "R99"
+    },
+    {
+        "label": "R03 - Systems Science - MS",
+        "value": "R03"
+    },
+    {
+        "label": "R07 - Industrial and Sys Eng - MS",
+        "value": "R07"
+    },
+    {
+        "label": "R0C - Systems Science 4+1 - MS",
+        "value": "R0C"
+    },
+    {
+        "label": "R0G - Industrial & Systems Engineering 4+1 - MS",
+        "value": "R0G"
+    },
+    {
+        "label": "R1C - BS ISE MS SS Health Systems - MS",
+        "value": "R1C"
+    },
+    {
+        "label": "R1G - BS ISE MS ISE Health Systems - MS",
+        "value": "R1G"
+    },
+    {
+        "label": "R23 - Systems Engineering - MEng",
+        "value": "R23"
+    },
+    {
+        "label": "R27 - Industrial Engineering - MEng",
+        "value": "R27"
+    },
+    {
+        "label": "R43 - Health Systems MS SS - MS",
+        "value": "R43"
+    },
+    {
+        "label": "R47 - Health Systems MS ISE - MS",
+        "value": "R47"
+    },
+    {
+        "label": "R52 - Healthcare Systems Eng - MS",
+        "value": "R52"
+    },
+    {
+        "label": "R53 - Exec Health Sys Manhattan SS - MS",
+        "value": "R53"
+    },
+    {
+        "label": "R57 - Exec Health Sys Manhattan ISE - MS",
+        "value": "R57"
+    },
+    {
+        "label": "R63 - Complex Sys Sci and Engr - CERT",
+        "value": "R63"
+    },
+    {
+        "label": "R87 - Industrial/Sys Eng - PHD",
+        "value": "R87"
+    },
+    {
+        "label": "R93 - Systems Science - PHD",
+        "value": "R93"
+    },
+    {
+        "label": "R64 - Cybersecurity - CERT",
+        "value": "R64"
+    }
+]
