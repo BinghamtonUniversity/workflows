@@ -110,5 +110,9 @@
     {
         "label":"Nursing (DNP)",
         "value":"Nursing (DNP)"
+    }, 
+    {
+        "label":"Management",
+        "value":"Management"
     }
 ]
