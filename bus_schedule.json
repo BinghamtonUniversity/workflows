@@ -1,0 +1,405 @@
+[
+    {
+        "schedule_type": "ws out / dcl in",
+
+        "days":[
+            {
+                "day":"monday-thursday",
+                "in_out":[
+                    {
+                        "schedule_name":"Westside Outbound (WS OUT)",
+                        "stops":[
+                            {
+                                "stop_name":"Leaves UNION",
+                                "hours":["7:30 AM", "8:30 AM", "9:15 AM", "10:00 AM", "10:30 AM", "11:00 AM", "11:30 AM", "12:00 PM", "12:15 PM", "12:30 PM", "12:45 PM",  "1:15 PM", "1:30 PM", "1:45 PM", "2:00 PM", "2:30 PM", "3:00 PM", "3:15 PM", "3:45 PM", "4:00 PM", "4:15 PM", "4:30 PM", "4:45 PM", "5:00 PM", "5:15 PM", "5:35 PM", "5:45 PM", "6:05 PM", "6:15 PM", "6:35 PM", "6:50 PM", "7:05 PM", "7:35 PM", "7:45 PM", "8:00 PM", "8:20 PM", "8:30 PM", "8:45 PM", "9:00 PM", "9:15 PM", "9:30 PM", "10:00 PM", "10:15 PM",  "12:05 AM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                            "hours":["9:25 AM", "10:10 AM", "10:40 AM", "11:10 AM", "11:40 AM", "12:10 PM", "12:25 PM", "12:40 PM", "12:55 PM",  "1:25 PM", "1:40 PM", "1:55 PM", "2:10 PM", "2:40 PM", "3:10 PM", "3:25 PM", "3:55 PM", "4:10 PM", "4:25 PM", "4:40 PM", "4:55 PM", "5:10 PM", "5:25 PM", "5:45 PM", "5:55 PM", "6:15 PM", "6:25 PM", "6:45 PM", "7:00 PM", "7:15 PM", "7:45 PM", "7:55 PM", "8:10 PM", "8:30 PM", "8:40 PM", "8:55 PM", "9:10 PM", "9:25 PM", "9:40 PM", "10:10 PM", "10:25 PM",  "12:15 AM"]
+                        },
+                        { "stop_name":"Main & Murray",
+                            "hours":["7:45 AM", "8:45 AM", "9:30 AM", "10:15 AM", "10:45 AM", "11:15 AM", "11:45 AM", "12:15 PM", "12:30 PM", "12:45 PM", "1:00 PM",  "1:30 PM", "1:45 PM", "2:00 PM", "2:15 PM", "2:45 PM", "3:15 PM", "3:30 PM", "4:00 PM", "4:15 PM", "4:30 PM", "4:45 PM", "5:00 PM", "5:15 PM", "5:30 PM", "5:50 PM", "6:00 PM", "6:20 PM", "6:30 PM", "6:50 PM", "7:05 PM", "7:20 PM", "7:50 PM", "8:00 PM", "8:15 PM", "8:35 PM", "8:45 PM", "9:00 PM", "9:15 PM", "9:30 PM", "9:45 PM", "10:15 PM", "10:30 PM",  "12:20 AM"]
+                        },
+                        { "stop_name":"Arrives at UDC",
+                            "hours":["7:50 AM", "8:50 AM", "9:35 AM", "10:20 AM", "10:50 AM", "11:20 AM", "11:50 AM", "12:20 PM", "12:35 PM", "12:50 PM", "1:05 PM",  "1:35 PM", "1:50 PM", "2:05 PM", "2:20 PM", "2:50 PM", "3:20 PM", "3:35 PM", "4:05 PM", "4:20 PM", "4:35 PM", "4:50 PM", "5:05 PM", "5:20 PM", "5:35 PM", "5:55 PM", "6:05 PM", "6:25 PM", "6:35 PM", "6:55 PM", "7:10 PM", "7:25 PM", "7:55 PM", "8:05 PM", "8:20 PM", "8:40 PM", "8:50 PM", "9:05 PM", "9:20 PM", "9:35 PM", "9:50 PM", "10:20 PM", "10:35 PM",  "12:25 AM"]
+                        }
+
+
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Downtown Center Leroy Inbound (DCL IN)",
+                        "stops":[
+                            { "stop_name":"Leaves UDC",
+                                "hours":["7:30 AM", "7:55 AM", "8:00 AM", "8:30 AM", "8:55 AM", "9:00 AM", "9:30 AM", "9:40 AM", "10:00 AM", "10:25 AM", "10:30 AM", "10:55 AM", "11:00 AM", "11:25 AM", "11:45 AM", "11:55 AM", "2:25 PM", "2:40 PM", "2:55 PM", "1:10 PM", "1:25 PM", "1:40 PM", "1:55 PM", "2:10 PM", "2:25 PM", "2:55 PM", "3:25 PM", "3:40 PM", "4:10 PM", "4:40 PM", "5:10 PM", "5:40 PM", "6:10 PM", "6:40 PM", "7:15 PM", "7:30 PM", "8:00 PM", "8:10 PM", "8:25 PM", "8:45 PM", "8:55 PM", "9:10 PM", "9:25 PM", "9:40 PM", "9:55 PM","10:25 PM","10:40 PM","10:55 PM","11:40 PM","12.25 PM" ]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["7:33 AM", "7:58 AM", "8:03 AM", "8:33 AM", "8:58 AM", "9:03 AM", "9:33 AM", "9:43 AM", "10:03 AM", "10:28 AM", "10:33 AM", "10:58 AM", "1:03 AM", "1:28 AM", "1:48 AM", "1:58 AM", "2:28 PM", "2:43 PM", "2:58 PM", "1:13 PM", "1:28 PM", "1:43 PM", "1:58 PM", "2:13 PM", "2:28 PM", "2:58 PM", "3:28 PM", "3:43 PM", "4:13 PM", "4:43 PM", "5:13 PM", "5:43 PM", "6:13 PM", "6:43 PM", "7:18 PM", "7:33 PM", "8:03 PM", "8:13 PM", "8:28 PM", "8:48 PM", "8:58 PM", "9:13 PM", "9:28 PM", "9:43 PM", "9:58 PM", "10:28 PM", "10:43 PM", "10:58 PM", "11:43 PM", "12:28 PM" ]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["7:39 AM", "8:04 AM", "8:09 AM", "8:39 AM", "9:04 AM", "9:09 AM", "9:39 AM", "9:49 AM", "10:09 AM", "10:34 AM", "10:39 AM", "11:04 AM", "1:09 AM", "1:34 AM", "1:54 AM", "2:04 PM", "2:34 PM", "2:49 PM", "1:04 PM", "1:19 PM", "1:34 PM", "1:49 PM", "2:04 PM", "2:19 PM", "2:34 PM", "3:04 PM", "3:34 PM", "3:49 PM", "4:19 PM", "4:49 PM", "5:19 PM", "5:49 PM", "6:19 PM", "6:49 PM", "7:24 PM", "7:39 PM", "8:09 PM", "8:19 PM", "8:34 PM", "8:54 PM", "9:04 PM", "9:19 PM", "9:34 PM", "9:49 PM","10:04 PM","10:34 PM","10:49 PM","11:04 PM","11:49 PM","12:34 PM" ]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["7:47 AM", "8:12 AM", "8:17 AM", "8:47 AM", "9:12 AM", "9:17 AM", "9:47 AM", "9:57 AM", "10:17 AM", "10:42 AM", "10:47 AM", "11:12 AM", "11:17 AM", "11:42 AM", "2:02 PM", "2:12 PM", "2:42 PM", "2:57 PM", "1:12 PM", "1:27 PM", "1:42 PM", "1:57 PM", "2:12 PM", "2:27 PM", "2:42 PM", "3:12 PM", "3:42 PM", "3:57 PM", "4:27 PM", "4:57 PM", "5:27 PM", "5:57 PM", "6:27 PM", "6:57 PM", "7:32 PM", "7:47 PM", "8:17 PM", "8:27 PM", "8:42 PM", "9:02 PM", "9:12 PM", "9:27 PM", "9:42 PM", "9:57 PM", "10:12 PM","10:42 PM","10:57 PM","11:12 PM","11:57 PM","12:42 PM" ]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["7:49 AM", "8:14 AM", "8:19 AM", "8:49 AM", "9:14 AM", "9:19 AM", "9:49 AM", "9:59 AM", "10:19 AM", "10:44 AM", "10:49 AM", "11:14 AM", "11:19 AM", "11:44 AM", "2:04 PM", "2:14 PM", "2:44 PM", "2:59 PM", "1:14 PM", "1:29 PM", "1:44 PM", "1:59 PM", "2:14 PM", "2:29 PM", "2:44 PM", "3:14 PM", "3:44 PM", "3:59 PM", "4:29 PM", "4:59 PM", "5:29 PM", "5:59 PM", "6:29 PM", "6:59 PM", "7:34 PM", "7:49 PM", "8:19 PM", "8:29 PM", "8:44 PM", "9:04 PM", "9:14 PM", "9:29 PM", "9:44 PM", "9:59 PM", "10:14 PM","10:44 PM","10:59 PM","11:14 PM","11:59 PM","12:44 PM" ]
+                            }
+                        ]
+
+                    }
+                ]
+            },
+            {
+                "day":"friday",
+                "in_out":[
+                    {
+                        "schedule_name":"Westside Outbound (WS OUT)",
+                        "stops":[
+                            {
+                                "stop_name":"Leaves UNION",
+                                "hours":["7:30 AM", "8:30 AM", "9:15 AM", "10:00 AM", "10:30 AM", "11:00 AM", "11:30 AM", "12:00 PM", "12:15 PM", "12:30 PM", "12:45 PM", "1:00 PM", "1:15 PM", "1:30 PM", "1:45 PM", "2:00 PM", "2:30 PM", "3:00 PM", "3:15 PM", "3:45 PM", "4:00 PM", "4:15 PM", "4:30 PM", "4:45 PM", "5:00 PM", "5:15 PM", "5:35 PM", "5:45 PM", "6:05 PM", "6:15 PM", "6:35 PM", "6:50 PM", "7:05 PM", "7:35 PM", "7:45 PM", "8:00 PM", "8:15 PM", "8:30 PM", "8:45 PM", "9:00 PM", "9:15 PM", "9:45 PM", "10:15 PM", "10:30 PM", "11:00 PM", "11:15 PM", "11:45 PM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                            "hours":["7:40 AM", "8:40 AM", "9:25 AM", "10:10 AM", "10:40 AM", "11:10 AM", "11:40 AM", "12:10 PM", "12:25 PM", "12:40 PM", "12:55 PM", "1:10 PM", "1:25 PM", "1:40 PM", "1:55 PM", "2:10 PM", "2:40 PM", "3:10 PM", "3:25 PM", "3:55 PM", "4:10 PM", "4:25 PM", "4:40 PM", "4:55 PM", "5:10 PM", "5:25 PM", "5:45 PM", "5:55 PM", "6:15 PM", "6:25 PM", "6:45 PM", "7:00 PM", "7:15 PM", "7:45 PM", "7:55 PM", "8:10 PM", "8:25 PM", "8:40 PM", "8:55 PM", "9:10 PM", "9:25 PM", "9:55 PM", "10:25 PM", "10:40 PM", "11:10 PM", "11:25 PM", "11:55 PM"]
+                        },
+                        { "stop_name":"Main & Murray",
+                            "hours":["7:45 AM", "8:45 AM", "9:30 AM", "10:15 AM", "10:45 AM", "11:15 AM", "11:45 AM", "12:15 PM", "12:30 PM", "12:45 PM", "1:00 PM", "1:15 PM", "1:30 PM", "1:45 PM", "2:00 PM", "2:15 PM", "2:45 PM", "3:15 PM", "3:30 PM", "4:00 PM", "4:15 PM", "4:30 PM", "4:45 PM", "5:00 PM", "5:15 PM", "5:30 PM", "5:50 PM", "6:00 PM", "6:20 PM", "6:30 PM", "6:50 PM", "7:05 PM", "7:20 PM", "7:50 PM", "8:00 PM", "8:15 PM", "8:30 PM", "8:45 PM", "9:00 PM", "9:15 PM", "9:30 PM", "10:00 PM", "10:30 PM", "10:45 PM", "11:15 PM", "11:30 PM", "12:00 AM"]
+                        },
+                        { "stop_name":"Arrives at UDC",
+                            "hours":["7:50 AM", "8:50 AM", "9:35 AM", "10:20 AM", "10:50 AM", "11:20 AM", "11:50 AM", "12:20 PM", "12:35 PM", "12:50 PM", "1:05 PM", "1:20 PM", "1:35 PM", "1:50 PM", "2:05 PM", "2:20 PM", "2:50 PM", "3:20 PM", "3:35 PM", "4:05 PM", "4:20 PM", "4:35 PM", "4:50 PM", "5:05 PM", "5:20 PM", "5:35 PM", "5:55 PM", "6:05 PM", "6:25 PM", "6:35 PM", "6:55 PM", "7:10 PM", "7:25 PM", "7:55 PM", "8:05 PM", "8:20 PM", "8:35 PM", "8:50 PM", "9:05 PM", "9:20 PM", "9:35 PM", "10:05 PM", "10:35 PM", "10:50 PM", "11:20 PM", "11:35 PM", "12:05 AM"]
+                        }
+
+
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Downtown Center Leroy Inbound (DCL IN)",
+                        "stops":[
+                            { "stop_name":"Leaves UDC",
+                                "hours":["7:30 AM", "7:55 AM", "8:00 AM", "8:30 AM", "8:55 AM", "9:00 AM", "9:30 AM", "9:40 AM", "10:00 AM", "10:25 AM", "10:30 AM", "10:55 AM", "11:00 AM", "11:25 AM", "11:45 AM", "11:55 AM", "12:25 PM", "12:40 PM", "12:55 PM", "1:10 PM", "1:25 PM", "1:40 PM", "1:55 PM", "2:10 PM", "2:25 PM", "2:55 PM", "3:25 PM", "3:40 PM", "4:10 PM", "4:40 PM", "5:10 PM", "5:40 PM", "6:10 PM", "6:40 PM", "7:15 PM", "7:30 PM", "8:00 PM", "8:10 PM", "8:25 PM", "8:40 PM", "8:55 PM", "9:10 PM", "9:25 PM", "9:40 PM", "10:10 PM", "10:40 PM", "10:55 PM", "11:25 PM", "11:40 PM", "12:10 AM"]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["7:33 AM", "7:58 AM", "8:03 AM", "8:33 AM", "8:58 AM", "9:03 AM", "9:33 AM", "9:43 AM", "10:03 AM", "10:28 AM", "10:33 AM", "10:58 AM", "11:03 AM", "11:28 AM", "11:48 AM", "11:58 AM", "12:28 PM", "12:43 PM", "12:58 PM", "1:13 PM", "1:28 PM", "1:43 PM", "1:58 PM", "2:13 PM", "2:28 PM", "2:58 PM", "3:28 PM", "3:43 PM", "4:13 PM", "4:43 PM", "5:13 PM", "5:43 PM", "6:13 PM", "6:43 PM", "7:18 PM", "7:33 PM", "8:03 PM", "8:13 PM", "8:28 PM", "8:43 PM", "8:58 PM", "9:13 PM", "9:28 PM", "9:43 PM", "10:13 PM", "10:43 PM", "10:58 PM", "11:28 PM", "11:43 PM", "12:13 AM"]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["7:39 AM", "8:04 AM", "8:09 AM", "8:39 AM", "9:04 AM", "9:09 AM", "9:39 AM", "9:49 AM", "10:09 AM", "10:34 AM", "10:39 AM", "11:04 AM", "11:09 AM", "11:34 AM", "11:54 AM", "12:04 PM", "12:34 PM", "12:49 PM", "1:04 PM", "1:19 PM", "1:34 PM", "1:49 PM", "2:04 PM", "2:19 PM", "2:34 PM", "3:04 PM", "3:34 PM", "3:49 PM", "4:19 PM", "4:49 PM", "5:19 PM", "5:49 PM", "6:19 PM", "6:49 PM", "7:24 PM", "7:39 PM", "8:09 PM", "8:19 PM", "8:34 PM", "8:49 PM", "9:04 PM", "9:19 PM", "9:34 PM", "9:49 PM", "10:19 PM", "10:49 PM", "11:04 PM", "11:34 PM", "11:49 PM", "12:19 AM"]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["7:47 AM", "8:12 AM", "8:17 AM", "8:47 AM", "9:12 AM", "9:17 AM", "9:47 AM", "9:57 AM", "10:17 AM", "10:42 AM", "10:47 AM", "11:12 AM", "11:17 AM", "11:42 AM", "12:02 PM", "12:12 PM", "12:42 PM", "12:57 PM", "1:12 PM", "1:27 PM", "1:42 PM", "1:57 PM", "2:12 PM", "2:27 PM", "2:42 PM", "3:12 PM", "3:42 PM", "3:57 PM", "4:27 PM", "4:57 PM", "5:27 PM", "5:57 PM", "6:27 PM", "6:57 PM", "7:32 PM", "7:47 PM", "8:17 PM", "8:27 PM", "8:42 PM", "8:57 PM", "9:12 PM", "9:27 PM", "9:42 PM", "9:57 PM", "10:27 PM", "10:57 PM", "11:12 PM", "11:42 PM", "11:57 PM", "12:27 AM"]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["7:49 AM", "8:14 AM", "8:19 AM", "8:49 AM", "9:14 AM", "9:19 AM", "9:49 AM", "9:59 AM", "10:19 AM", "10:44 AM", "10:49 AM", "11:14 AM", "11:19 AM", "11:44 AM", "12:04 PM", "12:14 PM", "12:44 PM", "12:59 PM", "1:14 PM", "1:29 PM", "1:44 PM", "1:59 PM", "2:14 PM", "2:29 PM", "2:44 PM", "3:14 PM", "3:44 PM", "3:59 PM", "4:29 PM", "4:59 PM", "5:29 PM", "5:59 PM", "6:29 PM", "6:59 PM", "7:34 PM", "7:49 PM", "8:19 PM", "8:29 PM", "8:44 PM", "8:59 PM", "9:14 PM", "9:29 PM", "9:44 PM", "9:59 PM", "10:29 PM", "10:59 PM", "11:14 PM", "11:44 PM", "11:59 PM", "12:29 AM"]
+                            }
+                        ]
+
+                    }
+                ]
+            },
+            {
+                "day":"Friday Late Night",
+                "in_out":[
+                    {
+                        "schedule_name":"Late Nite Westside Outbound (LN WS OUT)",
+                        "stops":[
+                            {
+                                "stop_name":"Leaves UNION",
+                                "hours":["12:05 AM", "1:00 AM", "2:00 AM", "3:00 AM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                            "hours":["12:15 AM", "1:10 AM", "2:10 AM", "3:10 AM"]
+                        },
+                        { "stop_name":"Main & Murray",
+                            "hours":["12:20 AM", "1:15 AM", "2:15 AM", "3:15 AM"]
+                        },
+                        { "stop_name":"Arrives at STATE & HAWLEY",
+                            "hours":["12:25 AM", "1:20 AM", "2:20 AM", "3:20 AM"]
+                        }
+
+
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Late Nite Downtown Center Leroy Inbound (LNL IN)",
+                        "stops":[
+                            { "stop_name":"Leaves STATE & HAWLEY",
+                                "hours":["12:25 AM", "1:20 AM", "2:20 AM", "3:20 AM"]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["12:28 AM", "1:23 AM", "2:23 AM", "3:23 AM"]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["12:34 AM", "1:29 AM", "2:29 AM", "3:29 AM"]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["12:42 AM", "1:37 AM", "2:37 AM", "3:37 AM"]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["12:44 AM", "1:39 AM", "2:39 AM", "3:39 AM"]
+                            }
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Late Nite Downtown Center Leroy Outbound (LNL OUT)",
+                        "stops":[
+                            { "stop_name":"Leaves UNION",
+                                "hours":["12:15 AM", "1:00 AM", "1:45 AM", "2:30 AM"]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["12:21 AM", "1:06 AM", "1:51 AM", "2:36 AM"]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["12:26 AM", "1:11 AM", "1:56 AM", "2:41 AM"]
+                            },
+                            { "stop_name":"Arrives at STATE & HAWLEY",
+                                "hours":["12:30 AM", "1:15 AM", "2:00 AM", "2:45 AM"]
+                            }
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Late Nite Westside Inbound (LN WS IN)",
+                        "stops":[
+                            { "stop_name":"Leaves STATE & HAWLEY",
+                                "hours":["12:30 AM", "1:15 AM", "2:00 AM", "2:45 AM"]
+                            },
+                            { "stop_name":"Main & Murray",
+                                "hours":["12:33 AM", "1:18 AM", "2:03 AM", "2:48 AM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                                "hours":["12:40 AM", "1:25 AM", "2:10 AM", "2:55 AM"]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["12:50 AM", "1:35 AM", "2:20 AM", "3:05 AM"]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["12:52 AM", "1:37 AM", "2:22 AM", "3:07 AM"]
+                            }
+                        ]
+
+                    }
+                ]
+            },
+            {
+                "day":"Saturday",
+                "in_out":[
+                    {
+                        "schedule_name":"Westside Outbound (WS OUT)",
+                        "stops":[
+                            {
+                                "stop_name":"Leaves UNION",
+                                "hours":["10:00 AM", "10:45 AM", "11:30 AM", "12:30 PM", "1:15 PM", "2:00 PM", "2:30 PM", "2:45 PM", "3:30 PM", "4:15 PM", "5:00 PM", "5:45 PM", "6:30 PM", "7:00 PM", "7:30 PM", "8:00 PM", "8:30 PM", "9:30 PM", "9:45 PM", "10:05 PM", "11:05 PM", "12:00 AM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                            "hours":["10:10 AM", "10:55 AM", "11:40 AM", "12:40 PM", "1:25 PM", "2:10 PM", "2:40 PM", "2:55 PM", "3:40 PM", "4:25 PM", "5:10 PM", "5:55 PM", "6:40 PM", "7:10 PM", "7:40 PM", "8:10 PM", "8:40 PM", "9:40 PM", "9:55 PM", "10:15 PM", "11:15 PM", "12:10 AM"]
+                        },
+                        { "stop_name":"Main & Murray",
+                            "hours":["10:15 AM", "11:00 AM", "11:45 AM", "12:45 PM", "1:30 PM", "2:15 PM", "2:45 PM", "3:00 PM", "3:45 PM", "4:30 PM", "5:15 PM", "6:00 PM", "6:45 PM", "7:15 PM", "7:45 PM", "8:15 PM", "8:45 PM", "9:45 PM", "10:00 PM", "10:20 PM", "11:20 PM", "12:15 AM"]
+                        },
+                        { "stop_name":"Arrives at UDC",
+                            "hours":["10:20 AM", "11:05 AM", "11:50 AM", "12:50 PM", "1:35 PM", "2:20 PM", "2:50 PM", "3:05 PM", "3:50 PM", "4:35 PM", "5:20 PM", "6:05 PM", "6:50 PM", "7:20 PM", "7:50 PM", "8:20 PM", "8:50 PM", "9:50 PM", "10:05 PM", "10:25 PM", "11:25 PM", "12:20 AM"]
+                        }
+
+
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Downtown Center Leroy Inbound (DCL IN)",
+                        "stops":[
+                            { "stop_name":"Leaves UDC",
+                                "hours":["10:25 AM", "11:10 AM", "11:55 AM", "12:55 PM", "1:40 PM", "2:25 PM", "2:55 PM", "3:10 PM", "3:55 PM", "4:40 PM", "5:25 PM", "6:10 PM", "6:55 PM", "7:25 PM", "7:55 PM", "8:25 PM", "8:55 PM", "9:55 PM", "10:10 PM", "10:40 PM", "11:25 PM", "12:20 AM"]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["10:28 AM", "11:13 AM", "11:58 AM", "12:58 PM", "1:43 PM", "2:28 PM", "2:58 PM", "3:13 PM", "3:58 PM", "4:43 PM", "5:28 PM", "6:13 PM", "6:58 PM", "7:28 PM", "7:58 PM", "8:28 PM", "8:58 PM", "9:58 PM", "10:13 PM", "10:43 PM", "11:28 PM", "12:23 AM"]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["10:34 AM", "11:19 AM", "12:04 PM", "1:04 PM", "1:49 PM", "2:34 PM", "3:04 PM", "3:19 PM", "4:04 PM", "4:49 PM", "5:34 PM", "6:19 PM", "7:04 PM", "7:34 PM", "8:04 PM", "8:34 PM", "9:04 PM", "10:04 PM", "10:19 PM", "10:49 PM", "11:34 PM", "12:29 AM"]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["10:42 AM", "11:27 AM", "12:12 PM", "1:12 PM", "1:57 PM", "2:42 PM", "3:12 PM", "3:27 PM", "4:12 PM", "4:57 PM", "5:42 PM", "6:27 PM", "7:12 PM", "7:42 PM", "8:12 PM", "8:42 PM", "9:12 PM", "10:12 PM", "10:27 PM", "10:57 PM", "11:42 PM", "12:37 AM"]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["10:44 AM", "11:29 AM", "12:14 PM", "1:14 PM", "1:59 PM", "2:44 PM", "3:14 PM", "3:29 PM", "4:14 PM", "4:59 PM", "5:44 PM", "6:29 PM", "7:14 PM", "7:44 PM", "8:14 PM", "8:44 PM", "9:14 PM", "10:14 PM", "10:29 PM", "10:59 PM", "11:44 PM", "12:39 AM"]
+                            }
+                        ]
+
+                    }
+                ]
+            },
+            {
+                "day":"Saturday Late Night",
+                "in_out":[
+                    {
+                        "schedule_name":"Late Nite Westside Outbound (LN WS OUT)",
+                        "stops":[
+                            {
+                                "stop_name":"Leaves UNION",
+                                "hours":["12:00 AM", "1:00 AM", "2:00 AM", "3:00 AM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                            "hours":["12:10 AM", "1:10 AM", "2:10 AM", "3:10 AM"]
+                        },
+                        { "stop_name":"Main & Murray",
+                            "hours":["12:15 AM", "1:15 AM", "2:15 AM", "3:15 AM"]
+                        },
+                        { "stop_name":"Arrives at STATE & HAWLEY",
+                            "hours":["12:20 AM", "1:20 AM", "2:20 AM", "3:20 AM"]
+                        }
+
+
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Late Nite Downtown Center Leroy Inbound (LNL IN)",
+                        "stops":[
+                            { "stop_name":"Leaves STATE & HAWLEY",
+                                "hours":["12:20 AM", "1:20 AM", "2:20 AM", "3:20 AM"]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["12:23 AM", "1:23 AM", "2:23 AM", "3:23 AM"]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["12:29 AM", "1:29 AM", "2:29 AM", "3:29 AM"]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["12:32 AM", "1:37 AM", "2:37 AM", "3:37 AM"]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["12:39 AM", "1:39 AM", "2:39 AM", "3:39 AM"]
+                            }
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Late Nite Downtown Center Leroy Outbound (LNL OUT)",
+                        "stops":[
+                            { "stop_name":"Leaves UNION",
+                                "hours":["12:15 AM", "1:00 AM", "1:45 AM", "2:30 AM"]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["12:21 AM", "1:06 AM", "1:51 AM", "2:36 AM"]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["12:26 AM", "1:11 AM", "1:56 AM", "2:41 AM"]
+                            },
+                            { "stop_name":"Arrives at STATE & HAWLEY",
+                                "hours":["12:30 AM", "1:15 AM", "2:00 AM", "2:45 AM"]
+                            }
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Late Nite Westside Inbound (LN WS IN)",
+                        "stops":[
+                            { "stop_name":"Leaves STATE & HAWLEY",
+                                "hours":["12:30 AM", "1:15 AM", "2:00 AM", "2:45 AM"]
+                            },
+                            { "stop_name":"Main & Murray",
+                                "hours":["12:33 AM", "1:18 AM", "2:03 AM", "2:48 AM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                                "hours":["12:40 AM", "1:25 AM", "2:10 AM", "2:55 AM"]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["12:50 AM", "1:35 AM", "2:20 AM", "3:05 AM"]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["12:52 AM", "1:37 AM", "2:22 AM", "3:07 AM"]
+                            }
+                        ]
+
+                    }
+                ]
+            },
+            {
+                "day":"Sunday",
+                "in_out":[
+                    {
+                        "schedule_name":"Westside Outbound (WS OUT)",
+                        "stops":[
+                            {
+                                "stop_name":"Leaves UNION",
+                                "hours":["10:00 AM", "10:45 AM", "11:30 AM", "12:30 PM", "1:15 PM", "2:00 PM", "2:30 PM", "2:45 PM", "3:30 PM", "4:15 PM", "5:00 PM", "5:45 PM", "6:30 PM", "7:00 PM", "7:30 PM", "8:00 PM", "8:30 PM", "9:00 PM", "9:30 PM", "10:00 PM", "10:30 PM", "11:00 PM", "11:20 PM", "12:05 AM"]
+                            },
+                            { "stop_name":"Floral & Main",
+                            "hours":["10:10 AM", "10:55 AM", "11:40 AM", "12:40 PM", "1:25 PM", "2:10 PM", "2:40 PM", "2:55 PM", "3:40 PM", "4:25 PM", "5:10 PM", "5:55 PM", "6:40 PM", "7:10 PM", "7:40 PM", "8:10 PM", "8:40 PM", "9:10 PM", "9:40 PM", "10:10 PM", "10:40 PM", "11:10 PM", "11:30 PM", "12:15 AM"]
+                        },
+                        { "stop_name":"Main & Murray",
+                            "hours":["10:15 AM", "11:00 AM", "11:45 AM", "12:45 PM", "1:30 PM", "2:15 PM", "2:45 PM", "3:00 PM", "3:45 PM", "4:30 PM", "5:15 PM", "6:00 PM", "6:45 PM", "7:15 PM", "7:45 PM", "8:15 PM", "8:45 PM", "9:15 PM", "9:45 PM", "10:15 PM", "10:45 PM", "11:15 PM", "11:35 PM", "12:20 AM"]
+                        },
+                        { "stop_name":"Arrives at UDC",
+                            "hours":["10:20 AM", "11:05 AM", "11:50 AM", "12:50 PM", "1:35 PM", "2:20 PM", "2:50 PM", "3:05 PM", "3:50 PM", "4:35 PM", "5:20 PM", "6:05 PM", "6:50 PM", "7:20 PM", "7:50 PM", "8:20 PM", "8:50 PM", "9:20 PM", "9:50 PM", "10:20 PM", "10:50 PM", "11:20 PM", "11:40 PM", "12:25 AM"]
+                        }
+
+
+                        ]
+
+                    },
+                    {  
+                        "schedule_name":"Downtown Center Leroy Inbound (DCL IN)",
+                        "stops":[
+                            { "stop_name":"Leaves UDC",
+                                "hours":["10:25 AM", "11:10 AM", "11:55 AM", "12:55 PM", "1:40 PM", "2:25 PM", "2:55 PM", "3:10 PM", "3:55 PM", "4:40 PM", "5:25 PM", "6:10 PM", "6:55 PM", "7:25 PM", "7:55 PM", "8:25 PM", "8:55 PM", "9:25 PM", "9:55 PM", "10:25 PM", "10:50 PM", "11:25 PM", "11:40 PM", "12:25 AM"]
+                            },
+                            { "stop_name":"Leroy & Murray",
+                                "hours":["10:28 AM", "11:13 AM", "11:58 AM", "12:58 PM", "1:43 PM", "2:28 PM", "2:58 PM", "3:13 PM", "3:58 PM", "4:43 PM", "5:28 PM", "6:13 PM", "6:58 PM", "7:28 PM", "7:58 PM", "8:28 PM", "8:58 PM", "9:28 PM", "9:58 PM", "10:28 PM", "10:53 PM", "11:28 PM", "11:43 PM", "12:28 AM"]
+                            },
+                            { "stop_name":"Riverside & Columbus",
+                                "hours":["10:34 AM", "11:19 AM", "12:04 PM", "1:04 PM", "1:49 PM", "2:34 PM", "3:04 PM", "3:19 PM", "4:04 PM", "4:49 PM", "5:34 PM", "6:19 PM", "7:04 PM", "7:34 PM", "8:04 PM", "8:34 PM", "9:04 PM", "9:34 PM", "10:04 PM", "10:34 PM", "10:59 PM", "11:34 PM", "11:49 PM", "12:34 AM"]
+                            },
+                            { "stop_name":"Academic A",
+                                "hours":["10:42 AM", "11:27 AM", "12:12 PM", "1:12 PM", "1:57 PM", "2:42 PM", "3:12 PM", "3:27 PM", "4:12 PM", "4:57 PM", "5:42 PM", "6:27 PM", "7:12 PM", "7:42 PM", "8:12 PM", "8:42 PM", "9:12 PM", "9:42 PM", "10:12 PM", "10:42 PM", "11:07 PM", "11:42 PM", "11:57 PM", "12:42 AM"]
+                            },
+                            { "stop_name":"Returns to CAMPUS",
+                                "hours":["10:44 AM", "11:29 AM", "12:14 PM", "1:14 PM", "1:59 PM", "2:44 PM", "3:14 PM", "3:29 PM", "4:14 PM", "4:59 PM", "5:44 PM", "6:29 PM", "7:14 PM", "7:44 PM", "8:14 PM", "8:44 PM", "9:14 PM", "9:44 PM", "10:14 PM", "10:44 PM", "11:09 PM", "11:44 PM", "11:59 PM", "12:44 AM"]
+                            }
+                        ]
+
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "schedule_type": "dcl out / ws in",
+
+        "days":[]
+    },
+    {
+        "schedule_type": "udc",
+
+        "days":[]
+    },
+    {
+        "schedule_type": "hsc",
+
+        "days":[]
+    },  {
+        "schedule_type": "lrs",
+
+        "days":[]
+    },  {
+        "schedule_type": "itc & uclub",
+
+        "days":[]
+    },  {
+        "schedule_type": "rr-tsm & oak",
+
+        "days":[]
+    },
+    {
+        "schedule_type": "downtown express",
+
+        "days":[]
+    },
+    {
+        "schedule_type": "campus shuttle",
+
+        "days":[]
+    }
+]
