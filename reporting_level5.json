@@ -1,798 +1,822 @@
 [
     {
-        "value": "Acad Advising",
-        "label": "Acad Advising"
+        "label": "Acad Advising",
+        "value": "Acad Advising"
     },
     {
-        "value": "Acad Affairs Prov VP",
-        "label": "Acad Affairs Prov VP"
+        "label": "Acad Affairs Prov VP",
+        "value": "Acad Affairs Prov VP"
     },
     {
-        "value": "Advancement VP",
-        "label": "Advancement VP"
+        "label": "Advancement VP",
+        "value": "Advancement VP"
     },
     {
-        "value": "Africana Studies",
-        "label": "Africana Studies"
+        "label": "Africana Studies",
+        "value": "Africana Studies"
     },
     {
-        "value": "Anderson Cntr Performing Arts",
-        "label": "Anderson Cntr Performing Arts"
+        "label": "Anderson Cntr Performing Arts",
+        "value": "Anderson Cntr Performing Arts"
     },
     {
-        "value": "Anthropology",
-        "label": "Anthropology"
+        "label": "Anthropology",
+        "value": "Anthropology"
     },
     {
-        "value": "Art History",
-        "label": "Art History"
+        "label": "Art History",
+        "value": "Art History"
     },
     {
-        "value": "Arts and Sciences Acad",
-        "label": "Arts and Sciences Acad"
+        "label": "Arts and Sciences Acad",
+        "value": "Arts and Sciences Acad"
     },
     {
-        "value": "Arts and Sciences Dean",
-        "label": "Arts and Sciences Dean"
+        "label": "Arts and Sciences Dean",
+        "value": "Arts and Sciences Dean"
     },
     {
-        "value": "Arts and Sciences Sciences",
-        "label": "Arts and Sciences Sciences"
+        "label": "Arts and Sciences Sciences",
+        "value": "Arts and Sciences Sciences"
     },
     {
-        "value": "Athletics Men's Teams",
-        "label": "Athletics Men's Teams"
+        "label": "Athletics Men's Teams",
+        "value": "Athletics Men's Teams"
     },
     {
-        "value": "Athletics Non Program Specific",
-        "label": "Athletics Non Program Specific"
+        "label": "Athletics Non Program Specific",
+        "value": "Athletics Non Program Specific"
     },
     {
-        "value": "Athletics Old Accts",
-        "label": "Athletics Old Accts"
+        "label": "Athletics Old Accts",
+        "value": "Athletics Old Accts"
     },
     {
-        "value": "Athletics Other",
-        "label": "Athletics Other"
+        "label": "Athletics Other",
+        "value": "Athletics Other"
     },
     {
-        "value": "Athletics Salaries",
-        "label": "Athletics Salaries"
+        "label": "Athletics Salaries",
+        "value": "Athletics Salaries"
     },
     {
-        "value": "Athletics Scholarships",
-        "label": "Athletics Scholarships"
+        "label": "Athletics Scholarships",
+        "value": "Athletics Scholarships"
     },
     {
-        "value": "Athletics Women's Teams",
-        "label": "Athletics Women's Teams"
+        "label": "Athletics Women's Teams",
+        "value": "Athletics Women's Teams"
     },
     {
-        "value": "Auxiliary Services",
-        "label": "Auxiliary Services"
+        "label": "Auxiliary Services",
+        "value": "Auxiliary Services"
     },
     {
-        "value": "Binghamton Scholars Program",
-        "label": "Binghamton Scholars Program"
+        "label": "Binghamton Scholars Program",
+        "value": "Binghamton Scholars Program"
     },
     {
-        "value": "Biochemistry",
-        "label": "Biochemistry"
+        "label": "Biochemistry",
+        "value": "Biochemistry"
     },
     {
-        "value": "Biology",
-        "label": "Biology"
+        "label": "Biology",
+        "value": "Biology"
     },
     {
-        "value": "Biomedical Anthropology",
-        "label": "Biomedical Anthropology"
+        "label": "Biomedical Anthropology",
+        "value": "Biomedical Anthropology"
     },
     {
-        "value": "Biomedical Engineering",
-        "label": "Biomedical Engineering"
+        "label": "Biomedical Engineering",
+        "value": "Biomedical Engineering"
     },
     {
-        "value": "BU Foundation",
-        "label": "BU Foundation"
+        "label": "BU Foundation",
+        "value": "BU Foundation"
     },
     {
-        "value": "Budget Office",
-        "label": "Budget Office"
+        "label": "Budget Office",
+        "value": "Budget Office"
     },
     {
-        "value": "Business Office",
-        "label": "Business Office"
+        "label": "Business Office",
+        "value": "Business Office"
     },
     {
-        "value": "Call Center",
-        "label": "Call Center"
+        "label": "Call Center",
+        "value": "Call Center"
     },
     {
-        "value": "Campus Life",
-        "label": "Campus Life"
+        "label": "Campus Life",
+        "value": "Campus Life"
     },
     {
-        "value": "Campus Wide Grad Recruitment",
-        "label": "Campus Wide Grad Recruitment"
+        "label": "Campus Wide Grad Recruitment",
+        "value": "Campus Wide Grad Recruitment"
     },
     {
-        "value": "Case Mgmt",
-        "label": "Case Mgmt"
+        "label": "Case Mgmt",
+        "value": "Case Mgmt"
     },
     {
-        "value": "CCPA Deans Office",
-        "label": "CCPA Deans Office"
+        "label": "CCPA Deans Office",
+        "value": "CCPA Deans Office"
     },
     {
-        "value": "CCPA Human Development",
-        "label": "CCPA Human Development"
+        "label": "CCPA Human Development",
+        "value": "CCPA Human Development"
     },
     {
-        "value": "CCPA PhD Program",
-        "label": "CCPA PhD Program"
+        "label": "CCPA PhD Program",
+        "value": "CCPA PhD Program"
     },
     {
-        "value": "CCPA Public Administration",
-        "label": "CCPA Public Administration"
+        "label": "CCPA Public Administration",
+        "value": "CCPA Public Administration"
     },
     {
-        "value": "CCPA Social Work",
-        "label": "CCPA Social Work"
+        "label": "CCPA Social Work",
+        "value": "CCPA Social Work"
     },
     {
-        "value": "CCPA Student Affairs",
-        "label": "CCPA Student Affairs"
+        "label": "CCPA Student Affairs",
+        "value": "CCPA Student Affairs"
     },
     {
-        "value": "CCPA Teaching Learning Educatn",
-        "label": "CCPA Teaching Learning Educatn"
+        "label": "CCPA Teaching Learning Educatn",
+        "value": "CCPA Teaching Learning Educatn"
     },
     {
-        "value": "Center for Civic Engagement",
-        "label": "Center for Civic Engagement"
+        "label": "Center for Civic Engagement",
+        "value": "Center for Civic Engagement"
     },
     {
-        "value": "Chemistry",
-        "label": "Chemistry"
+        "label": "Chemistry",
+        "value": "Chemistry"
     },
     {
-        "value": "Cinema",
-        "label": "Cinema"
+        "label": "Cinema",
+        "value": "Cinema"
     },
     {
-        "value": "Classical\/Near Eastern Studies",
-        "label": "Classical\/Near Eastern Studies"
+        "label": "CLT",
+        "value": "CLT"
     },
     {
-        "value": "CLT",
-        "label": "CLT"
+        "label": "Cntr Cognitive Psycholing",
+        "value": "Cntr Cognitive Psycholing"
     },
     {
-        "value": "Cntr Cognitive Psycholing",
-        "label": "Cntr Cognitive Psycholing"
+        "label": "Cntr for Career & Prof Dev",
+        "value": "Cntr for Career & Prof Dev"
     },
     {
-        "value": "Cntr for Career & Prof Dev",
-        "label": "Cntr for Career & Prof Dev"
+        "label": "Cntr For Innov & Continuing Ed",
+        "value": "Cntr For Innov & Continuing Ed"
     },
     {
-        "value": "Cntr For Innov & Continuing Ed",
-        "label": "Cntr For Innov & Continuing Ed"
+        "label": "Cntr Hist Stu Women and Gender",
+        "value": "Cntr Hist Stu Women and Gender"
     },
     {
-        "value": "Cntr Hist Stu Women and Gender",
-        "label": "Cntr Hist Stu Women and Gender"
+        "label": "Cntr Medieval and Renaiss Stu",
+        "value": "Cntr Medieval and Renaiss Stu"
     },
     {
-        "value": "Cntr Medieval and Renaiss Stu",
-        "label": "Cntr Medieval and Renaiss Stu"
+        "label": "College in the Woods",
+        "value": "College in the Woods"
     },
     {
-        "value": "College in the Woods",
-        "label": "College in the Woods"
+        "label": "Commencement",
+        "value": "Commencement"
     },
     {
-        "value": "Commencement",
-        "label": "Commencement"
+        "label": "Comparative Literature",
+        "value": "Comparative Literature"
     },
     {
-        "value": "Comparative Literature",
-        "label": "Comparative Literature"
+        "label": "Computer Science",
+        "value": "Computer Science"
     },
     {
-        "value": "Computer Science",
-        "label": "Computer Science"
+        "label": "Computing and Networking Serv",
+        "value": "Computing and Networking Serv"
     },
     {
-        "value": "Computing and Networking Serv",
-        "label": "Computing and Networking Serv"
+        "label": "Counseling Center",
+        "value": "Counseling Center"
     },
     {
-        "value": "Counseling Center",
-        "label": "Counseling Center"
+        "label": "Course Bldg/Academic Space Mgt",
+        "value": "Course Bldg/Academic Space Mgt"
     },
     {
-        "value": "Course Bldg\/Academic Space Mgt",
-        "label": "Course Bldg\/Academic Space Mgt"
+        "label": "Dean of Students",
+        "value": "Dean of Students"
     },
     {
-        "value": "Dean of Students",
-        "label": "Dean of Students"
+        "label": "Decker Deans Office",
+        "value": "Decker Deans Office"
     },
     {
-        "value": "Dept Asian & Asian Amer Study",
-        "label": "Dept Asian & Asian Amer Study"
+        "label": "Dept Asian & Asian Amer Study",
+        "value": "Dept Asian & Asian Amer Study"
     },
     {
-        "value": "Dept of Art and Design",
-        "label": "Dept of Art and Design"
+        "label": "Dept of Art and Design",
+        "value": "Dept of Art and Design"
     },
     {
-        "value": "Dickinson Community",
-        "label": "Dickinson Community"
+        "label": "Dickinson Community",
+        "value": "Dickinson Community"
     },
     {
-        "value": "Diversity Equity Inclusion",
-        "label": "Diversity Equity Inclusion"
+        "label": "Diversity Equity Inclusion",
+        "value": "Diversity Equity Inclusion"
     },
     {
-        "value": "Economics",
-        "label": "Economics"
+        "label": "Economics",
+        "value": "Economics"
     },
     {
-        "value": "Educational Communications",
-        "label": "Educational Communications"
+        "label": "Educational Communications",
+        "value": "Educational Communications"
     },
     {
-        "value": "Educational Opportunity Prog",
-        "label": "Educational Opportunity Prog"
+        "label": "Educational Opportunity Prog",
+        "value": "Educational Opportunity Prog"
     },
     {
-        "value": "Electrical and Computer Engr",
-        "label": "Electrical and Computer Engr"
+        "label": "Electrical and Computer Engr",
+        "value": "Electrical and Computer Engr"
     },
     {
-        "value": "Employee Assistance",
-        "label": "Employee Assistance"
+        "label": "Employee Assistance",
+        "value": "Employee Assistance"
     },
     {
-        "value": "Engineering Design",
-        "label": "Engineering Design"
+        "label": "Engineering Design",
+        "value": "Engineering Design"
     },
     {
-        "value": "Enginet",
-        "label": "Enginet"
+        "label": "Enginet",
+        "value": "Enginet"
     },
     {
-        "value": "English",
-        "label": "English"
+        "label": "English",
+        "value": "English"
     },
     {
-        "value": "English Language Institute",
-        "label": "English Language Institute"
+        "label": "English Language Institute",
+        "value": "English Language Institute"
     },
     {
-        "value": "Enrollment Mgmt",
-        "label": "Enrollment Mgmt"
+        "label": "Enrollment Mgmt",
+        "value": "Enrollment Mgmt"
     },
     {
-        "value": "Environment Health and Safety",
-        "label": "Environment Health and Safety"
+        "label": "Environment Health and Safety",
+        "value": "Environment Health and Safety"
     },
     {
-        "value": "Environmental Studies",
-        "label": "Environmental Studies"
+        "label": "Environmental Studies",
+        "value": "Environmental Studies"
     },
     {
-        "value": "Faculty Senate Recharges",
-        "label": "Faculty Senate Recharges"
+        "label": "Faculty Senate Recharges",
+        "value": "Faculty Senate Recharges"
     },
     {
-        "value": "Fernand Braudel Cntr",
-        "label": "Fernand Braudel Cntr"
+        "label": "Fernand Braudel Cntr",
+        "value": "Fernand Braudel Cntr"
     },
     {
-        "value": "Fin Aid and Student Records",
-        "label": "Fin Aid and Student Records"
+        "label": "Fin Aid and Student Records",
+        "value": "Fin Aid and Student Records"
     },
     {
-        "value": "Funded Reserves",
-        "label": "Funded Reserves"
+        "label": "Freshman Research Immersion",
+        "value": "Freshman Research Immersion"
     },
     {
-        "value": "Geography",
-        "label": "Geography"
+        "label": "Funded Reserves",
+        "value": "Funded Reserves"
     },
     {
-        "value": "Geology",
-        "label": "Geology"
+        "label": "Geography",
+        "value": "Geography"
     },
     {
-        "value": "German and Russian Studies",
-        "label": "German and Russian Studies"
+        "label": "Geology",
+        "value": "Geology"
     },
     {
-        "value": "GIS Core Facility",
-        "label": "GIS Core Facility"
+        "label": "German and Russian Studies",
+        "value": "German and Russian Studies"
     },
     {
-        "value": "Global Studies and LXC",
-        "label": "Global Studies and LXC"
+        "label": "GIS Core Facility",
+        "value": "GIS Core Facility"
     },
     {
-        "value": "Graduate School",
-        "label": "Graduate School"
+        "label": "Global Studies and LXC",
+        "value": "Global Studies and LXC"
     },
     {
-        "value": "Graduate School Dean",
-        "label": "Graduate School Dean"
+        "label": "Graduate School",
+        "value": "Graduate School"
     },
     {
-        "value": "Health and Wellness Studies",
-        "label": "Health and Wellness Studies"
+        "label": "Graduate School Dean",
+        "value": "Graduate School Dean"
     },
     {
-        "value": "Health Outcomes and Admin Sci",
-        "label": "Health Outcomes and Admin Sci"
+        "label": "Harriet Tubman Center",
+        "value": "Harriet Tubman Center"
     },
     {
-        "value": "Health Promotion & Prevention",
-        "label": "Health Promotion & Prevention"
+        "label": "Health and Wellness Studies",
+        "value": "Health and Wellness Studies"
     },
     {
-        "value": "Health Services",
-        "label": "Health Services"
+        "label": "Health Outcomes and Admin Sci",
+        "value": "Health Outcomes and Admin Sci"
     },
     {
-        "value": "Hillside Community",
-        "label": "Hillside Community"
+        "label": "Health Promotion & Prevention",
+        "value": "Health Promotion & Prevention"
     },
     {
-        "value": "Hinman College",
-        "label": "Hinman College"
+        "label": "Health Services",
+        "value": "Health Services"
     },
     {
-        "value": "History",
-        "label": "History"
+        "label": "Hillside Community",
+        "value": "Hillside Community"
     },
     {
-        "value": "HRI",
-        "label": "HRI"
+        "label": "Hinman College",
+        "value": "Hinman College"
     },
     {
-        "value": "Human Resources",
-        "label": "Human Resources"
+        "label": "History",
+        "value": "History"
     },
     {
-        "value": "IGMAP",
-        "label": "IGMAP"
+        "label": "HRI",
+        "value": "HRI"
     },
     {
-        "value": "Inst Adv Stud in Humanities",
-        "label": "Inst Adv Stud in Humanities"
+        "label": "Human Resources",
+        "value": "Human Resources"
     },
     {
-        "value": "Inst Global Cultural Studies",
-        "label": "Inst Global Cultural Studies"
+        "label": "IGMAP",
+        "value": "IGMAP"
     },
     {
-        "value": "Inst Materials Research",
-        "label": "Inst Materials Research"
+        "label": "Inst Adv Stud in Humanities",
+        "value": "Inst Adv Stud in Humanities"
     },
     {
-        "value": "Inst Research and Assessment",
-        "label": "Inst Research and Assessment"
+        "label": "Inst Global Cultural Studies",
+        "value": "Inst Global Cultural Studies"
     },
     {
-        "value": "Internal Audit Office",
-        "label": "Internal Audit Office"
+        "label": "Inst Materials Research",
+        "value": "Inst Materials Research"
     },
     {
-        "value": "International Stdnts Schr Srvc",
-        "label": "International Stdnts Schr Srvc"
+        "label": "Institutional Research",
+        "value": "Institutional Research"
     },
     {
-        "value": "Intl Educ & Global Affairs",
-        "label": "Intl Educ & Global Affairs"
+        "label": "Internal Audit Office",
+        "value": "Internal Audit Office"
     },
     {
-        "value": "Intl Educ & Global Initiatives",
-        "label": "Intl Educ & Global Initiatives"
+        "label": "International Stdnts Schr Srvc",
+        "value": "International Stdnts Schr Srvc"
     },
     {
-        "value": "Judaic Studies",
-        "label": "Judaic Studies"
+        "label": "Intl Educ & Global Affairs",
+        "value": "Intl Educ & Global Affairs"
     },
     {
-        "value": "Kaschak Institute",
-        "label": "Kaschak Institute"
+        "label": "Intl Educ & Global Initiatives",
+        "value": "Intl Educ & Global Initiatives"
     },
     {
-        "value": "Korean Institute",
-        "label": "Korean Institute"
+        "label": "Judaic Studies",
+        "value": "Judaic Studies"
     },
     {
-        "value": "Laboratory Animal Resources",
-        "label": "Laboratory Animal Resources"
+        "label": "Kaschak Institute",
+        "value": "Kaschak Institute"
     },
     {
-        "value": "Latin Amer Carib Area St",
-        "label": "Latin Amer Carib Area St"
+        "label": "Korean Institute",
+        "value": "Korean Institute"
     },
     {
-        "value": "Leadership Programs",
-        "label": "Leadership Programs"
+        "label": "Laboratory Animal Resources",
+        "value": "Laboratory Animal Resources"
     },
     {
-        "value": "Library Services",
-        "label": "Library Services"
+        "label": "Latin Amer Carib Area St",
+        "value": "Latin Amer Carib Area St"
     },
     {
-        "value": "Linguistics",
-        "label": "Linguistics"
+        "label": "Leadership Programs",
+        "value": "Leadership Programs"
     },
     {
-        "value": "Materials Science",
-        "label": "Materials Science"
+        "label": "Library Services",
+        "value": "Library Services"
     },
     {
-        "value": "Mathematics",
-        "label": "Mathematics"
+        "label": "Linguistics",
+        "value": "Linguistics"
     },
     {
-        "value": "Mechanical Engineering",
-        "label": "Mechanical Engineering"
+        "label": "Materials Science",
+        "value": "Materials Science"
     },
     {
-        "value": "Media and Public Relations",
-        "label": "Media and Public Relations"
+        "label": "Mathematics",
+        "value": "Mathematics"
     },
     {
-        "value": "Medieval Studies",
-        "label": "Medieval Studies"
+        "label": "Mechanical Engineering",
+        "value": "Mechanical Engineering"
     },
     {
-        "value": "Middle East N African St",
-        "label": "Middle East N African St"
+        "label": "Media and Public Relations",
+        "value": "Media and Public Relations"
     },
     {
-        "value": "Mountainview College",
-        "label": "Mountainview College"
+        "label": "Medieval Studies",
+        "value": "Medieval Studies"
     },
     {
-        "value": "Music",
-        "label": "Music"
+        "label": "Middle East N African St",
+        "value": "Middle East N African St"
     },
     {
-        "value": "New Student Programs",
-        "label": "New Student Programs"
+        "label": "MidEastern/Ancient Med Studies",
+        "value": "MidEastern/Ancient Med Studies"
     },
     {
-        "value": "Newing College",
-        "label": "Newing College"
+        "label": "Mountainview College",
+        "value": "Mountainview College"
     },
     {
-        "value": "Office of Alumni Engagement",
-        "label": "Office of Alumni Engagement"
+        "label": "Music",
+        "value": "Music"
     },
     {
-        "value": "Office of Creative Services",
-        "label": "Office of Creative Services"
+        "label": "New Student Programs",
+        "value": "New Student Programs"
     },
     {
-        "value": "Office of Student Conduct",
-        "label": "Office of Student Conduct"
+        "label": "Newing College",
+        "value": "Newing College"
     },
     {
-        "value": "Operations VP",
-        "label": "Operations VP"
+        "label": "Occupational Therapy",
+        "value": "Occupational Therapy"
     },
     {
-        "value": "Other accts added to rollup",
-        "label": "Other accts added to rollup"
+        "label": "Office of Alumni Engagement",
+        "value": "Office of Alumni Engagement"
     },
     {
-        "value": "Parking Services",
-        "label": "Parking Services"
+        "label": "Office of Creative Services",
+        "value": "Office of Creative Services"
     },
     {
-        "value": "PF Campus Mail Service",
-        "label": "PF Campus Mail Service"
+        "label": "Office of Student Conduct",
+        "value": "Office of Student Conduct"
     },
     {
-        "value": "PF Capital and Chargebacks",
-        "label": "PF Capital and Chargebacks"
+        "label": "Operations VP",
+        "value": "Operations VP"
     },
     {
-        "value": "PF Commodities Utilities",
-        "label": "PF Commodities Utilities"
+        "label": "Other accts added to rollup",
+        "value": "Other accts added to rollup"
     },
     {
-        "value": "PF Residential",
-        "label": "PF Residential"
+        "label": "Parking Services",
+        "value": "Parking Services"
     },
     {
-        "value": "PF State",
-        "label": "PF State"
+        "label": "PF Campus Mail Service",
+        "value": "PF Campus Mail Service"
     },
     {
-        "value": "PF Utilities Operations",
-        "label": "PF Utilities Operations"
+        "label": "PF Capital and Chargebacks",
+        "value": "PF Capital and Chargebacks"
     },
     {
-        "value": "Pharmaceutical Sciences",
-        "label": "Pharmaceutical Sciences"
+        "label": "PF Commodities Utilities",
+        "value": "PF Commodities Utilities"
     },
     {
-        "value": "Pharmacy Practice",
-        "label": "Pharmacy Practice"
+        "label": "PF Residential",
+        "value": "PF Residential"
     },
     {
-        "value": "Phil Interpretation Culture",
-        "label": "Phil Interpretation Culture"
+        "label": "PF State",
+        "value": "PF State"
     },
     {
-        "value": "Philosophy",
-        "label": "Philosophy"
+        "label": "PF Utilities Operations",
+        "value": "PF Utilities Operations"
     },
     {
-        "value": "Philosophy Politics and Law",
-        "label": "Philosophy Politics and Law"
+        "label": "Pharmaceutical Sciences",
+        "value": "Pharmaceutical Sciences"
     },
     {
-        "value": "Physics",
-        "label": "Physics"
+        "label": "Pharmacy Practice",
+        "value": "Pharmacy Practice"
     },
     {
-        "value": "Political Science",
-        "label": "Political Science"
+        "label": "Phil Interpretation Culture",
+        "value": "Phil Interpretation Culture"
     },
     {
-        "value": "President's Office",
-        "label": "President's Office"
+        "label": "Philosophy",
+        "value": "Philosophy"
     },
     {
-        "value": "Print Solutions",
-        "label": "Print Solutions"
+        "label": "Philosophy Politics and Law",
+        "value": "Philosophy Politics and Law"
     },
     {
-        "value": "Psychobiology",
-        "label": "Psychobiology"
+        "label": "Physical Therapy",
+        "value": "Physical Therapy"
     },
     {
-        "value": "Psychological Clinic",
-        "label": "Psychological Clinic"
+        "label": "Physics",
+        "value": "Physics"
     },
     {
-        "value": "Psychology",
-        "label": "Psychology"
+        "label": "Political Science",
+        "value": "Political Science"
     },
     {
-        "value": "Public Archeology Facility",
-        "label": "Public Archeology Facility"
+        "label": "President's Office",
+        "value": "President's Office"
     },
     {
-        "value": "Purchasing",
-        "label": "Purchasing"
+        "label": "Print Solutions",
+        "value": "Print Solutions"
     },
     {
-        "value": "Radiation Safety",
-        "label": "Radiation Safety"
+        "label": "Psychobiology",
+        "value": "Psychobiology"
     },
     {
-        "value": "Recharges",
-        "label": "Recharges"
+        "label": "Psychological Clinic",
+        "value": "Psychological Clinic"
     },
     {
-        "value": "Recreation",
-        "label": "Recreation"
+        "label": "Psychology",
+        "value": "Psychology"
     },
     {
-        "value": "Research Sponsored Prog",
-        "label": "Research Sponsored Prog"
+        "label": "Public Archeology Facility",
+        "value": "Public Archeology Facility"
     },
     {
-        "value": "Research Sponsored Prog.",
-        "label": "Research Sponsored Prog."
+        "label": "Public Health",
+        "value": "Public Health"
     },
     {
-        "value": "Research VP",
-        "label": "Research VP"
+        "label": "Purchasing",
+        "value": "Purchasing"
     },
     {
-        "value": "Residential Life Office",
-        "label": "Residential Life Office"
+        "label": "Radiation Safety",
+        "value": "Radiation Safety"
     },
     {
-        "value": "Risk Mgmt and Admin Compliance",
-        "label": "Risk Mgmt and Admin Compliance"
+        "label": "Recharges",
+        "value": "Recharges"
     },
     {
-        "value": "Romance Languages",
-        "label": "Romance Languages"
+        "label": "Recreation",
+        "value": "Recreation"
     },
     {
-        "value": "SA Assess and Strat Initiative",
-        "label": "SA Assess and Strat Initiative"
+        "label": "Research Sponsored Prog",
+        "value": "Research Sponsored Prog"
     },
     {
-        "value": "School of Mgmt Acad",
-        "label": "School of Mgmt Acad"
+        "label": "Research Sponsored Prog.",
+        "value": "Research Sponsored Prog."
     },
     {
-        "value": "School of Mgmt Admin",
-        "label": "School of Mgmt Admin"
+        "label": "Research VP",
+        "value": "Research VP"
     },
     {
-        "value": "School of Mgmt Res",
-        "label": "School of Mgmt Res"
+        "label": "Residential Life Office",
+        "value": "Residential Life Office"
     },
     {
-        "value": "School of Nursing Acad",
-        "label": "School of Nursing Acad"
+        "label": "Risk Mgmt and Admin Compliance",
+        "value": "Risk Mgmt and Admin Compliance"
     },
     {
-        "value": "School of Nursing Deans Office",
-        "label": "School of Nursing Deans Office"
+        "label": "Romance Languages",
+        "value": "Romance Languages"
     },
     {
-        "value": "School of Pharmacy Dean",
-        "label": "School of Pharmacy Dean"
+        "label": "SA Assess and Strat Initiative",
+        "value": "SA Assess and Strat Initiative"
     },
     {
-        "value": "Small Business Dev Cntr",
-        "label": "Small Business Dev Cntr"
+        "label": "School of Mgmt Acad",
+        "value": "School of Mgmt Acad"
     },
     {
-        "value": "Small Scale Systems Center",
-        "label": "Small Scale Systems Center"
+        "label": "School of Mgmt Admin",
+        "value": "School of Mgmt Admin"
     },
     {
-        "value": "Sociology",
-        "label": "Sociology"
+        "label": "School of Mgmt Res",
+        "value": "School of Mgmt Res"
     },
     {
-        "value": "Sponsored Funds Admin",
-        "label": "Sponsored Funds Admin"
+        "label": "School of Nursing Acad",
+        "value": "School of Nursing Acad"
     },
     {
-        "value": "Strat Partnershp Indust Resurg",
-        "label": "Strat Partnershp Indust Resurg"
+        "label": "School of Pharmacy Dean",
+        "value": "School of Pharmacy Dean"
     },
     {
-        "value": "Strategic and Fiscal Planning",
-        "label": "Strategic and Fiscal Planning"
+        "label": "Small Business Dev Cntr",
+        "value": "Small Business Dev Cntr"
     },
     {
-        "value": "Student Accounts",
-        "label": "Student Accounts"
+        "label": "Small Scale Systems Center",
+        "value": "Small Scale Systems Center"
     },
     {
-        "value": "Student Affairs VP",
-        "label": "Student Affairs VP"
+        "label": "Sociology",
+        "value": "Sociology"
     },
     {
-        "value": "Student Transition and Success",
-        "label": "Student Transition and Success"
+        "label": "Speech Language Pathology",
+        "value": "Speech Language Pathology"
     },
     {
-        "value": "Susquehanna Community",
-        "label": "Susquehanna Community"
+        "label": "Sponsored Funds Admin",
+        "value": "Sponsored Funds Admin"
     },
     {
-        "value": "Svcs for Stdnt with Disability",
-        "label": "Svcs for Stdnt with Disability"
+        "label": "Strat Partnershp Indust Resurg",
+        "value": "Strat Partnershp Indust Resurg"
     },
     {
-        "value": "Systs Sci Industrial Engr",
-        "label": "Systs Sci Industrial Engr"
+        "label": "Strategic and Fiscal Planning",
+        "value": "Strategic and Fiscal Planning"
     },
     {
-        "value": "Telecommunications",
-        "label": "Telecommunications"
+        "label": "Student Accounts",
+        "value": "Student Accounts"
     },
     {
-        "value": "Theatre",
-        "label": "Theatre"
+        "label": "Student Affairs VP",
+        "value": "Student Affairs VP"
     },
     {
-        "value": "Transfer Services",
-        "label": "Transfer Services"
+        "label": "Student Transition and Success",
+        "value": "Student Transition and Success"
     },
     {
-        "value": "Translation Res Instr Prog",
-        "label": "Translation Res Instr Prog"
+        "label": "Susquehanna Community",
+        "value": "Susquehanna Community"
     },
     {
-        "value": "Transportation",
-        "label": "Transportation"
+        "label": "Svcs for Stdnt with Disability",
+        "value": "Svcs for Stdnt with Disability"
     },
     {
-        "value": "Trio Veterans",
-        "label": "Trio Veterans"
+        "label": "Systs Sci Industrial Engr",
+        "value": "Systs Sci Industrial Engr"
     },
     {
-        "value": "UG Research & Ext Scholarships",
-        "label": "UG Research & Ext Scholarships"
+        "label": "Telecommunications",
+        "value": "Telecommunications"
     },
     {
-        "value": "Unallocated",
-        "label": "Unallocated"
+        "label": "Theatre",
+        "value": "Theatre"
     },
     {
-        "value": "Undergrad Admissions",
-        "label": "Undergrad Admissions"
+        "label": "Transfer Services",
+        "value": "Transfer Services"
     },
     {
-        "value": "Undergraduate Education",
-        "label": "Undergraduate Education"
+        "label": "Translation Res Instr Prog",
+        "value": "Translation Res Instr Prog"
     },
     {
-        "value": "Univ Art Museum",
-        "label": "Univ Art Museum"
+        "label": "Transportation",
+        "value": "Transportation"
     },
     {
-        "value": "Univ Cntr for Training and Dev",
-        "label": "Univ Cntr for Training and Dev"
+        "label": "Trio Veterans",
+        "value": "Trio Veterans"
     },
     {
-        "value": "Univ Comm and Mrktg",
-        "label": "Univ Comm and Mrktg"
+        "label": "UG Research & Ext Scholarships",
+        "value": "UG Research & Ext Scholarships"
     },
     {
-        "value": "Univ Counsel",
-        "label": "Univ Counsel"
+        "label": "Unallocated",
+        "value": "Unallocated"
     },
     {
-        "value": "Univ Development Office",
-        "label": "Univ Development Office"
+        "label": "Undergrad Admissions",
+        "value": "Undergrad Admissions"
     },
     {
-        "value": "Univ Police",
-        "label": "Univ Police"
+        "label": "Undergraduate Education",
+        "value": "Undergraduate Education"
     },
     {
-        "value": "Univ Union",
-        "label": "Univ Union"
+        "label": "Univ Art Museum",
+        "value": "Univ Art Museum"
     },
     {
-        "value": "University Communications",
-        "label": "University Communications"
+        "label": "Univ Cntr for Training and Dev",
+        "value": "Univ Cntr for Training and Dev"
     },
     {
-        "value": "University Ombudsman",
-        "label": "University Ombudsman"
+        "label": "Univ Comm and Mrktg",
+        "value": "Univ Comm and Mrktg"
     },
     {
-        "value": "University Undistributed",
-        "label": "University Undistributed"
+        "label": "Univ Counsel",
+        "value": "Univ Counsel"
     },
     {
-        "value": "U-Wide not in our CC",
-        "label": "U-Wide not in our CC"
+        "label": "Univ Development Office",
+        "value": "Univ Development Office"
     },
     {
-        "value": "Watson Advising",
-        "label": "Watson Advising"
+        "label": "Univ Police",
+        "value": "Univ Police"
     },
     {
-        "value": "Watson Computer Facility",
-        "label": "Watson Computer Facility"
+        "label": "Univ Union",
+        "value": "Univ Union"
     },
     {
-        "value": "Watson Deans Office",
-        "label": "Watson Deans Office"
+        "label": "University Communications",
+        "value": "University Communications"
     },
     {
-        "value": "Watson Laboratories",
-        "label": "Watson Laboratories"
+        "label": "University Ombudsman",
+        "value": "University Ombudsman"
     },
     {
-        "value": "Women Gender & Sexuality Studi",
-        "label": "Women Gender & Sexuality Studi"
+        "label": "University Undistributed",
+        "value": "University Undistributed"
     },
     {
-        "value": "Writing Cntr",
-        "label": "Writing Cntr"
+        "label": "U-Wide not in our CC",
+        "value": "U-Wide not in our CC"
+    },
+    {
+        "label": "Watson Advising",
+        "value": "Watson Advising"
+    },
+    {
+        "label": "Watson Computer Facility",
+        "value": "Watson Computer Facility"
+    },
+    {
+        "label": "Watson Deans Office",
+        "value": "Watson Deans Office"
+    },
+    {
+        "label": "Watson Laboratories",
+        "value": "Watson Laboratories"
+    },
+    {
+        "label": "Women Gender & Sexuality Studi",
+        "value": "Women Gender & Sexuality Studi"
+    },
+    {
+        "label": "Writing Cntr",
+        "value": "Writing Cntr"
     }
 ]
