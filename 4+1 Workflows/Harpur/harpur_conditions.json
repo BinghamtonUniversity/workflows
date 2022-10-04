@@ -8,10 +8,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Anthropology BA/BS",
@@ -22,10 +22,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, one must be an Anthropology department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Anthropology BA/BS",
@@ -36,10 +36,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, one must be an Anthropology department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Linguistics BA",
@@ -50,10 +50,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, one must be an Anthropology department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Art History BA",
@@ -61,13 +61,13 @@
     "4+1 UG Major Code": "30I BA Art History 4+1",
     "Graduate Program": "Art History 4+1 MA",
     "Graduate Program Code": "C0I",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a statement of intent that outlines your research interests:",
-    "Resume/CV": "No",
+    "Resume/CV": null,
     "Fac Endorsement": "2 - Please enter the names and emails of faculty members who have agreed to serve as a reference for your application (one must be an Art History faculty member):",
     "Writing Sample": "Upload a writing sample, preferably a paper from an ARTH Course, min 3000 words:",
-    "Transcipt": "No",
-    "Other": "No"
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Art History BA",
@@ -75,13 +75,13 @@
     "4+1 UG Major Code": "60I BA Art Hist Arch & Urban 4+1",
     "Graduate Program": "Art History 4+1 MA",
     "Graduate Program Code": "C0I",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a statement of intent that outlines your research interests:",
-    "Resume/CV": "No",
+    "Resume/CV": null,
     "Fac Endorsement": "2 - Please enter the names and emails of faculty members who have agreed to serve as a reference for your application (one must be an Art History faculty member):",
     "Writing Sample": "Upload a writing sample, preferably a paper from an ARTH Course, min 3000 words:",
-    "Transcipt": "No",
-    "Other": "No"
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Asian and Asian and American Studies BA",
@@ -175,9 +175,9 @@
     "Graduate Program Code": "C1C",
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of the faculty member who has agreed to serve as your mentor. Upload or paste in a statement of committement from your proposed mentor:",
-    "Writing Sample": "No",
+    "Writing Sample": null,
     "Transcipt": "Upload an unofficial copy of your transcript:",
     "Other": "Check box: I certify that I have completed at least on semester of BIOL 497"
   },
@@ -190,10 +190,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, one must be an Anthropology department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Biological Sciences BA",
@@ -204,10 +204,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, one must be an Anthropology department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Biological Sciences BS",
@@ -218,10 +218,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, one must be an Anthropology department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Integrative Neuroscience BS",
@@ -232,10 +232,10 @@
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, one must be an Anthropology department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Chemistry BA/BS",
@@ -243,13 +243,13 @@
     "4+1 UG Major Code": "31F BA Chemistry 4+1 MA",
     "Graduate Program": "Chemistry 4+1 MA",
     "Graduate Program Code": "C1F",
-    "Rec Letters": "No",
-    "Pers State": "No",
+    "Rec Letters": null,
+    "Pers State": null,
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "1 - Please enter the name of the faculty member who has agreed to serve as your mentor:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Chemistry BA/BS",
@@ -257,13 +257,13 @@
     "4+1 UG Major Code": "91F BS Chemistry 4+1 MA",
     "Graduate Program": "Chemistry 4+1 MA",
     "Graduate Program Code": "C1F",
-    "Rec Letters": "No",
-    "Pers State": "No",
+    "Rec Letters": null,
+    "Pers State": null,
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "1 - Please enter the name of the faculty member who has agreed to serve as your mentor:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Chemistry BA/BS",
@@ -271,13 +271,13 @@
     "4+1 UG Major Code": "31P BA Chemistry 4+1 MS",
     "Graduate Program": "Chemistry 4+1 MS",
     "Graduate Program Code": "C6F",
-    "Rec Letters": "No",
-    "Pers State": "No",
+    "Rec Letters": null,
+    "Pers State": null,
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "1 - Please enter the name of the faculty member who has agreed to serve as your mentor:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Chemistry BA/BS",
@@ -285,13 +285,13 @@
     "4+1 UG Major Code": "91P BS Chemistry 4+1 MS",
     "Graduate Program": "Chemistry 4+1 MS",
     "Graduate Program Code": "C6F",
-    "Rec Letters": "No",
-    "Pers State": "No",
+    "Rec Letters": null,
+    "Pers State": null,
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "1 - Please enter the name of the faculty member who has agreed to serve as your mentor:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Comparative Literature BA",
@@ -299,13 +299,13 @@
     "4+1 UG Major Code": "34B BA Comparative Literature 4+1",
     "Graduate Program": "Comparative Literature 4+1 MA",
     "Graduate Program Code": "C4B",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Finullcial Economics BS",
@@ -313,12 +313,12 @@
     "4+1 UG Major Code": "52B BS Spec Finullcial Economic 4+1",
     "Graduate Program": "Economics Accelerated MA",
     "Graduate Program Code": "C2B",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a brief statement below describing your interest in this program and how it fit your career plans:",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
     "Other": "Please enter your phone #:"
   },
   {
@@ -329,11 +329,11 @@
     "Graduate Program Code": "C8H",
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders, both must be from English department faculty member. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
+    "Resume/CV": null,
     "Fac Endorsement": null,
     "Writing Sample": "Upload a writing sample:",
-    "Transcipt": "No",
-    "Other": "No"
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "French BA",
@@ -341,13 +341,13 @@
     "4+1 UG Major Code": "42N BA French& Francophone 4+1",
     "Graduate Program": "French 4+1 MA",
     "Graduate Program Code": "C2D",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "2 - Please enter the names and emails of faculty members who have agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "French BA",
@@ -355,13 +355,13 @@
     "4+1 UG Major Code": "52N BA French: Language & Linguistics 4+1",
     "Graduate Program": "French 4+1 MA",
     "Graduate Program Code": "C2D",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "2 - Please enter the names and emails of faculty members who have agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geography BA",
@@ -369,13 +369,13 @@
     "4+1 UG Major Code": "12E BA Geography: Race-Ethnicity & Place 4+1",
     "Graduate Program": "Geography 4+1 MA",
     "Graduate Program Code": "C2E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of Geography faculty member or instructor who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geography BA",
@@ -383,13 +383,13 @@
     "4+1 UG Major Code": "32E BA Geography General 4+1",
     "Graduate Program": "Geography 4+1 MA",
     "Graduate Program Code": "C2E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of Geography faculty member or instructor who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geography BA",
@@ -397,13 +397,13 @@
     "4+1 UG Major Code": "52E BA Geography Geog and Urban Pl 4+1",
     "Graduate Program": "Geography 4+1 MA",
     "Graduate Program Code": "C2E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of Geography faculty member or instructor who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geography BA",
@@ -411,13 +411,13 @@
     "4+1 UG Major Code": "72E BA Geography Computer Applic 4+1",
     "Graduate Program": "Geography 4+1 MA",
     "Graduate Program Code": "C2E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of Geography faculty member or instructor who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geography BA",
@@ -425,13 +425,13 @@
     "4+1 UG Major Code": "82E BA Geography  ERM 4+1",
     "Graduate Program": "Geography 4+1 MA",
     "Graduate Program Code": "C2E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of Geography faculty member or instructor who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geography BA",
@@ -439,13 +439,13 @@
     "4+1 UG Major Code": "92E BA Geography UERE 4+1",
     "Graduate Program": "Geography 4+1 MA",
     "Graduate Program Code": "C2E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of Geography faculty member or instructor who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geological Sciences BS",
@@ -453,13 +453,13 @@
     "4+1 UG Major Code": "92F Geological Sciences BS 4+1",
     "Graduate Program": "Geological Sciences 4+1 MS",
     "Graduate Program Code": "C2F",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of the faculty member who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geological Sciences BS",
@@ -467,13 +467,13 @@
     "4+1 UG Major Code": "98F BS Geo Environmental 4+1",
     "Graduate Program": "Geological Sciences 4+1 MS",
     "Graduate Program Code": "C2F",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of the faculty member who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Geological Sciences BS",
@@ -481,13 +481,13 @@
     "4+1 UG Major Code": "99F BS Geophysics 4+1",
     "Graduate Program": "Geological Sciences 4+1 MS",
     "Graduate Program Code": "C2F",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
+    "Resume/CV": null,
     "Fac Endorsement": "1 - Please enter the name and email of the faculty member who has agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "History BA",
@@ -509,13 +509,13 @@
     "4+1 UG Major Code": "33T BA Italian 4+1",
     "Graduate Program": "Italian 4+1 MA",
     "Graduate Program Code": "C3J",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "2 - Please enter the names and emails of faculty members who have agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Chemistry BS",
@@ -523,13 +523,13 @@
     "4+1 UG Major Code": "81F BS Chemistry Materials/MSE 4+1",
     "Graduate Program": "Materials Science and Engineering 4+1 MS",
     "Graduate Program Code": "H1I",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Physics BS",
@@ -537,13 +537,13 @@
     "4+1 UG Major Code": "84B BS Appl&Eng Physics/MSE 4+1",
     "Graduate Program": "Materials Science and Engineering 4+1 MS (Physics)",
     "Graduate Program Code": "H1H",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Philosophy BA",
@@ -553,11 +553,11 @@
     "Graduate Program Code": "C4K",
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
+    "Resume/CV": null,
+    "Fac Endorsement": null,
     "Writing Sample": "Upload a writing sample:",
     "Transcipt": "Upload an unofficial copy of your transcript:",
-    "Other": "No"
+    "Other": null
   },
   {
     "Undergraduate Program": "Philosophy BA",
@@ -567,11 +567,11 @@
     "Graduate Program Code": "C4K",
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
+    "Resume/CV": null,
+    "Fac Endorsement": null,
     "Writing Sample": "Upload a writing sample:",
     "Transcipt": "Upload an unofficial copy of your transcript:",
-    "Other": "No"
+    "Other": null
   },
   {
     "Undergraduate Program": "Philosophy, Politics and Law BA",
@@ -581,11 +581,11 @@
     "Graduate Program Code": "C4K",
     "Rec Letters": "2 - Please enter the names and emails of your faculty recommenders. Recommendations should be sent directly to [major code].",
     "Pers State": "Upload a personal statement:",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
+    "Resume/CV": null,
+    "Fac Endorsement": null,
     "Writing Sample": "Upload a writing sample:",
     "Transcipt": "Upload an unofficial copy of your transcript:",
-    "Other": "No"
+    "Other": null
   },
   {
     "Undergraduate Program": "Sociology BA",
@@ -607,13 +607,13 @@
     "4+1 UG Major Code": "35M BA Spanish Language and Lit 4+1",
     "Graduate Program": "Spanish 4+1 MA",
     "Graduate Program Code": "C5C",
-    "Rec Letters": "No",
+    "Rec Letters": null,
     "Pers State": "Upload a personal statement:",
     "Resume/CV": "Upload a resume or CV:",
     "Fac Endorsement": "2 - Please enter the names and emails of faculty members who have agreed to serve as a reference for your application:",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Mathematical Sciences BA/BS",
@@ -621,13 +621,13 @@
     "4+1 UG Major Code": "33E BA Math Sciences/Stat 4+1 MA",
     "Graduate Program": "Statistics 4+1 MA",
     "Graduate Program Code": "C8E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Mathematical Sciences BA/BS",
@@ -635,13 +635,13 @@
     "4+1 UG Major Code": "33H Statistics 4+1",
     "Graduate Program": "Statistics 4+1 MA",
     "Graduate Program Code": "C8E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Mathematical Sciences BA/BS",
@@ -649,13 +649,13 @@
     "4+1 UG Major Code": "43E BA Actuarial/Stat 4+1 MA",
     "Graduate Program": "Statistics 4+1 MA",
     "Graduate Program Code": "C8E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Mathematical Sciences BA/BS",
@@ -663,13 +663,13 @@
     "4+1 UG Major Code": "53E BS Actuarial/Stat 4+1 MA",
     "Graduate Program": "Statistics 4+1 MA",
     "Graduate Program Code": "C8E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   },
   {
     "Undergraduate Program": "Mathematical Sciences BA/BS",
@@ -677,12 +677,12 @@
     "4+1 UG Major Code": "93E BS Mathemat Sci/Stat  4+1 MA",
     "Graduate Program": "Statistics 4+1 MA",
     "Graduate Program Code": "C8E",
-    "Rec Letters": "No",
-    "Pers State": "No",
-    "Resume/CV": "No",
-    "Fac Endorsement": "No",
-    "Writing Sample": "No",
-    "Transcipt": "No",
-    "Other": "No"
+    "Rec Letters": null,
+    "Pers State": null,
+    "Resume/CV": null,
+    "Fac Endorsement": null,
+    "Writing Sample": null,
+    "Transcipt": null,
+    "Other": null
   }
 ]
