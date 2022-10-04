@@ -1,198 +1,198 @@
 [
     {
-        "name": "30A BA Anthropology General 4+1",
+        "label": "30A BA Anthropology General 4+1",
         "value": "30A BA Anthropology General 4+1"
     },
     {
-        "name": "40A BA Anthro Anthropological Pers 4+1",
+        "label": "40A BA Anthro Anthropological Pers 4+1",
         "value": "40A BA Anthro Anthropological Pers 4+1"
     },
     {
-        "name": "80A BS Anthropology 4+1",
+        "label": "80A BS Anthropology 4+1",
         "value": "80A BS Anthropology 4+1"
     },
     {
-        "name": "33B BA Linguis/Anthro 4+1 MA",
+        "label": "33B BA Linguis/Anthro 4+1 MA",
         "value": "33B BA Linguis/Anthro 4+1 MA"
     },
     {
-        "name": "30I BA Art History 4+1",
+        "label": "30I BA Art History 4+1",
         "value": "30I BA Art History 4+1"
     },
     {
-        "name": "60I BA Art Hist Arch & Urban 4+1",
+        "label": "60I BA Art Hist Arch & Urban 4+1",
         "value": "60I BA Art Hist Arch & Urban 4+1"
     },
     {
-        "name": "23S AAAS Comp 4+1 MA",
+        "label": "23S AAAS Comp 4+1 MA",
         "value": "23S AAAS Comp 4+1 MA"
     },
     {
-        "name": "43S AAAS 4+1 MA",
+        "label": "43S AAAS 4+1 MA",
         "value": "43S AAAS 4+1 MA"
     },
     {
-        "name": "53S AAAS South Asian 4+1 MA",
+        "label": "53S AAAS South Asian 4+1 MA",
         "value": "53S AAAS South Asian 4+1 MA"
     },
     {
-        "name": "63S BA Chinese Studies 4+1 MA",
+        "label": "63S BA Chinese Studies 4+1 MA",
         "value": "63S BA Chinese Studies 4+1 MA"
     },
     {
-        "name": "73S BA Japanese Studies 4+1 MA",
+        "label": "73S BA Japanese Studies 4+1 MA",
         "value": "73S BA Japanese Studies 4+1 MA"
     },
     {
-        "name": "83S BA Korean Studies 4+1 MA",
+        "label": "83S BA Korean Studies 4+1 MA",
         "value": "83S BA Korean Studies 4+1 MA"
     },
     {
-        "name": "31C BA Biological Sciences 4+1",
+        "label": "31C BA Biological Sciences 4+1",
         "value": "31C BA Biological Sciences 4+1"
     },
     {
-        "name": "80K BS Anthropology/BioAnth 4+1 MS",
+        "label": "80K BS Anthropology/BioAnth 4+1 MS",
         "value": "80K BS Anthropology/BioAnth 4+1 MS"
     },
     {
-        "name": "31M BA Biol Sci/Bio Anthr 4+1MS",
+        "label": "31M BA Biol Sci/Bio Anthr 4+1MS",
         "value": "31M BA Biol Sci/Bio Anthr 4+1MS"
     },
     {
-        "name": "91D BS Biol Sci/Bio Anthr 4+1 MS",
+        "label": "91D BS Biol Sci/Bio Anthr 4+1 MS",
         "value": "91D BS Biol Sci/Bio Anthr 4+1 MS"
     },
     {
-        "name": "92M BS Integrative Neuroscience 4+1",
+        "label": "92M BS Integrative Neuroscience 4+1",
         "value": "92M BS Integrative Neuroscience 4+1"
     },
     {
-        "name": "31F BA Chemistry 4+1 MA",
+        "label": "31F BA Chemistry 4+1 MA",
         "value": "31F BA Chemistry 4+1 MA"
     },
     {
-        "name": "91F BS Chemistry 4+1 MA",
+        "label": "91F BS Chemistry 4+1 MA",
         "value": "91F BS Chemistry 4+1 MA"
     },
     {
-        "name": "31P BA Chemistry 4+1 MS",
+        "label": "31P BA Chemistry 4+1 MS",
         "value": "31P BA Chemistry 4+1 MS"
     },
     {
-        "name": "91P BS Chemistry 4+1 MS",
+        "label": "91P BS Chemistry 4+1 MS",
         "value": "91P BS Chemistry 4+1 MS"
     },
     {
-        "name": "34B BA Comparative Literature 4+1",
+        "label": "34B BA Comparative Literature 4+1",
         "value": "34B BA Comparative Literature 4+1"
     },
     {
-        "name": "52B BS Spec Financial Economic 4+1",
+        "label": "52B BS Spec Financial Economic 4+1",
         "value": "52B BS Spec Financial Economic 4+1"
     },
     {
-        "name": "12H English BA 4+1",
+        "label": "12H English BA 4+1",
         "value": "12H English BA 4+1"
     },
     {
-        "name": "42N BA French& Francophone 4+1",
+        "label": "42N BA French& Francophone 4+1",
         "value": "42N BA French& Francophone 4+1"
     },
     {
-        "name": "52N BA French: Language & Linguistics 4+1",
+        "label": "52N BA French: Language & Linguistics 4+1",
         "value": "52N BA French: Language & Linguistics 4+1"
     },
     {
-        "name": "12E BA Geography: Race-Ethnicity & Place 4+1",
+        "label": "12E BA Geography: Race-Ethnicity & Place 4+1",
         "value": "12E BA Geography: Race-Ethnicity & Place 4+1"
     },
     {
-        "name": "32E BA Geography General 4+1",
+        "label": "32E BA Geography General 4+1",
         "value": "32E BA Geography General 4+1"
     },
     {
-        "name": "52E BA Geography Geog and Urban Pl 4+1",
+        "label": "52E BA Geography Geog and Urban Pl 4+1",
         "value": "52E BA Geography Geog and Urban Pl 4+1"
     },
     {
-        "name": "72E BA Geography Computer Applic 4+1",
+        "label": "72E BA Geography Computer Applic 4+1",
         "value": "72E BA Geography Computer Applic 4+1"
     },
     {
-        "name": "82E BA Geography  ERM 4+1",
+        "label": "82E BA Geography  ERM 4+1",
         "value": "82E BA Geography  ERM 4+1"
     },
     {
-        "name": "92E BA Geography UERE 4+1",
+        "label": "92E BA Geography UERE 4+1",
         "value": "92E BA Geography UERE 4+1"
     },
     {
-        "name": "92F Geological Sciences BS 4+1",
+        "label": "92F Geological Sciences BS 4+1",
         "value": "92F Geological Sciences BS 4+1"
     },
     {
-        "name": "98F BS Geo Environmental 4+1",
+        "label": "98F BS Geo Environmental 4+1",
         "value": "98F BS Geo Environmental 4+1"
     },
     {
-        "name": "99F BS Geophysics 4+1",
+        "label": "99F BS Geophysics 4+1",
         "value": "99F BS Geophysics 4+1"
     },
     {
-        "name": "32I BA History 4+1",
+        "label": "32I BA History 4+1",
         "value": "32I BA History 4+1"
     },
     {
-        "name": "33T BA Italian 4+1",
+        "label": "33T BA Italian 4+1",
         "value": "33T BA Italian 4+1"
     },
     {
-        "name": "81F BS Chemistry Materials/MSE 4+1",
+        "label": "81F BS Chemistry Materials/MSE 4+1",
         "value": "81F BS Chemistry Materials/MSE 4+1"
     },
     {
-        "name": "84B BS Appl&Eng Physics/MSE 4+1",
+        "label": "84B BS Appl&Eng Physics/MSE 4+1",
         "value": "84B BS Appl&Eng Physics/MSE 4+1"
     },
     {
-        "name": "24J BA Philos Double Major 4+1 MA",
+        "label": "24J BA Philos Double Major 4+1 MA",
         "value": "24J BA Philos Double Major 4+1 MA"
     },
     {
-        "name": "34J BA Philos General 4+1 MA",
+        "label": "34J BA Philos General 4+1 MA",
         "value": "34J BA Philos General 4+1 MA"
     },
     {
-        "name": "Needs to be built, use 940",
+        "label": "Needs to be built, use 940",
         "value": "Needs to be built, use 940"
     },
     {
-        "name": "35B BA Sociology 4+1",
+        "label": "35B BA Sociology 4+1",
         "value": "35B BA Sociology 4+1"
     },
     {
-        "name": "35M BA Spanish Language and Lit 4+1",
+        "label": "35M BA Spanish Language and Lit 4+1",
         "value": "35M BA Spanish Language and Lit 4+1"
     },
     {
-        "name": "33E BA Math Sciences/Stat 4+1 MA",
+        "label": "33E BA Math Sciences/Stat 4+1 MA",
         "value": "33E BA Math Sciences/Stat 4+1 MA"
     },
     {
-        "name": "33H Statistics 4+1",
+        "label": "33H Statistics 4+1",
         "value": "33H Statistics 4+1"
     },
     {
-        "name": "43E BA Actuarial/Stat 4+1 MA",
+        "label": "43E BA Actuarial/Stat 4+1 MA",
         "value": "43E BA Actuarial/Stat 4+1 MA"
     },
     {
-        "name": "53E BS Actuarial/Stat 4+1 MA",
+        "label": "53E BS Actuarial/Stat 4+1 MA",
         "value": "53E BS Actuarial/Stat 4+1 MA"
     },
     {
-        "name": "93E BS Mathemat Sci/Stat  4+1 MA",
+        "label": "93E BS Mathemat Sci/Stat  4+1 MA",
         "value": "93E BS Mathemat Sci/Stat  4+1 MA"
     }
 ]
